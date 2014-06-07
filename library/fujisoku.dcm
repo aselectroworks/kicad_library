@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0  Date: 2013/11/17 11:37:33
+#
+$CMP 8Y1011
+D 3PDT Switch
+K switch
+$ENDCMP
+#
+$CMP 8Y1021
+D 3PDT Switch(momentary)
+K switch
+$ENDCMP
+#
+$CMP 8Y2011
+D 3PDT Switch
+K switch
+$ENDCMP
+#
+$CMP 8Y2021
+D 3PDT Switch(momentary)
+K switch
+$ENDCMP
+#
+$CMP 8Y3011
+D 3PDT Switch
+K switch
+$ENDCMP
+#
+$CMP 8Y3021
+D 3PDT Switch(momentary)
+K switch
+$ENDCMP
+#
+#End Doc Library

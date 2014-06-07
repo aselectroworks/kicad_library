@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: 2013/11/17 20:14:39
+#
+$CMP 1SS355VMTE-17
+D High frequency switching Diode
+K High frequency switch
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/switching/1ss355.pdf
+$ENDCMP
+#
+#End Doc Library

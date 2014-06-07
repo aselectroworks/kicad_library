@@ -1,0 +1,62 @@
+EESchema-DOCLIB  Version 2.0  Date: 2013/11/17 21:04:03
+#
+$CMP NJM4558D
+D Dual Op amp (low power)
+K ampliop
+F http://semicon.njr.co.jp/eng/PDF/NJM4558_NJM4559_E.pdf
+$ENDCMP
+#
+$CMP NJM4558M
+D Dual Op amp (low power)
+K ampliop
+F http://semicon.njr.co.jp/eng/PDF/NJM4558_NJM4559_E.pdf
+$ENDCMP
+#
+$CMP NJM7805DL1A
+D 3-TERMINAL 1.5A POSITIVE VOLTAGE REGULATOR
+K regulator
+F http://semicon.njr.co.jp/eng/PDF/NJM7800_E.pdf
+$ENDCMP
+#
+$CMP NJM7805FA
+D 3-TERMINAL 1.5A POSITIVE VOLTAGE REGULATOR
+K regulator
+F http://semicon.njr.co.jp/eng/PDF/NJM7800_E.pdf
+$ENDCMP
+#
+$CMP NJM78M05DL1A
+D 3-TERMINAL 500mA POSITIVE VOLTAGE REGULATOR
+K regulator
+F http://semicon.njr.co.jp/eng/PDF/NJM78M00_E.pdf
+$ENDCMP
+#
+$CMP NJM78M05FA
+D 3-TERMINAL 500mA POSITIVE VOLTAGE REGULATOR
+K regulator
+F http://semicon.njr.co.jp/eng/PDF/NJM78M00_E.pdf
+$ENDCMP
+#
+$CMP NJM7905FA
+D 3-TERMINAL 1.5A NEGATIVE VOLTAGE REGULATOR
+K regulator
+F http://semicon.njr.co.jp/eng/PDF/NJM7900_E.pdf
+$ENDCMP
+#
+$CMP NJM79M05DL1A
+D 3-TERMINAL 500mA NEGATIVE VOLTAGE REGULATOR
+K regulator
+F http://semicon.njr.co.jp/eng/PDF/NJM79M00_E.pdf
+$ENDCMP
+#
+$CMP NJM79M05FA
+D 3-TERMINAL 500mA NEGATIVE VOLTAGE REGULATOR
+K regulator
+F http://semicon.njr.co.jp/eng/PDF/NJM79M00_E.pdf
+$ENDCMP
+#
+$CMP OPAMP
+D Dual Op amp (low power)
+K ampliop
+$ENDCMP
+#
+#End Doc Library

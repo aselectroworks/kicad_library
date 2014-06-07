@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: 2013/11/17 17:05:03
+#
+$CMP MN3102
+D CMOS Clock Generator/Driver for Low Voltage Operation BBD
+K BBD Clock Generator
+F F:/Dropbox/dev/datasheet/Panasonic/MN3102.pdf
+$ENDCMP
+#
+$CMP MN3205
+D 4096-Stage Low Voltage Operation Low Noise BBD
+K BBD
+F F:/Dropbox/dev/datasheet/Panasonic/MN3205.pdf
+$ENDCMP
+#
+#End Doc Library

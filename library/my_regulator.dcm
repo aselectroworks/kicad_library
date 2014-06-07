@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: 2013/11/17 17:27:42
+#
+$CMP 7905
+D Linear Regulator -5V
+K POWER REGUL
+F regulator\lm79xx.pdf
+$ENDCMP
+#
+$CMP 79M05
+D Linear Regulator -5V
+K POWER REGUL
+F regulator\lm79xx.pdf
+$ENDCMP
+#
+#End Doc Library

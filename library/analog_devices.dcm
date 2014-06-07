@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0  Date: 2013/12/15 13:05:59
+#
+$CMP AD5243BRMZ
+D 5V, 256-Position Dual Channel I2C Compatible Digital Potentiometer
+K Digipot, Dual, I2C
+$ENDCMP
+#
+$CMP AD5263BRMZ
+D Quad, 15 V, 256-Position Digital Potentiometer with Pin-Selectable SPI/I2C
+K Digipot, Quad, SPI, I2C
+$ENDCMP
+#
+$CMP AD5263BRU20
+D Quad, 15 V, 256-Position Digital Potentiometer with Pin-Selectable SPI/I2C
+K Digipot, Quad, SPI, I2C
+$ENDCMP
+#
+$CMP AD5263BRU200
+D Quad, 15 V, 256-Position Digital Potentiometer with Pin-Selectable SPI/I2C
+K Digipot, Quad, SPI, I2C
+$ENDCMP
+#
+$CMP AD5263BRU50
+D Quad, 15 V, 256-Position Digital Potentiometer with Pin-Selectable SPI/I2C
+K Digipot, Quad, SPI, I2C
+$ENDCMP
+#
+$CMP ADG619BRMZ
+D SPDT analog switch, break-before-make operation
+$ENDCMP
+#
+#End Doc Library
