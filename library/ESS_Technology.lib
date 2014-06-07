@@ -1,0 +1,15 @@
+EESchema-LIBRARY Version 2.3  Date: 2013/10/02 7:33:19
+#encoding utf-8
+#
+# ES9018
+#
+DEF ES9018 IC 0 40 Y Y 1 F N
+F0 "IC" 0 50 60 H V C CNN
+F1 "ES9018" 0 -50 60 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library

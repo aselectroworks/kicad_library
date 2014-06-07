@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPAMP
+D Dual Op amp (low power)
+K ampliop
+$ENDCMP
+#
+#End Doc Library

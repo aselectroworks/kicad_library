@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0  Date: 2013/11/17 11:30:49
+#
+$CMP ACJM-MHDR
+D Amphenol 1/4" PHONE JACKS HORIZONTAL 
+K jack
+$ENDCMP
+#
+$CMP ACJM-MHDRM
+D Amphenol 1/4" PHONE JACKS HORIZONTAL 
+K jack
+$ENDCMP
+#
+#End Doc Library
