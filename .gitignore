@@ -1,5 +1,6 @@
 #kicad library backup files
 *.*
+!*.*/
 !*.dcm
 !*.lib
 !*.kicad_mod
