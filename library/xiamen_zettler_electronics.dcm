@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACM1602NI-FLW-FBW-M01
+D I2C LIQUID CRYSTAL DISPLAY 
+K LCD I2C 16x2
+F http://akizukidenshi.com/download/ds/xiamen/ACM1602NI-FLW-FBW-M01_DISPLAYTRONIC_%20SPEC%20VER1.2.pdf
+$ENDCMP
+#
+#End Doc Library

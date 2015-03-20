@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MUYF-05XT-4BHZ12
+D USB Micro B connector
+K USB Micro B, USB
+F http://aitendo3.sakura.ne.jp/aitendo_data/product_img/parts/USB/MCUBF-07/MCUBF-07.pdf
+$ENDCMP
+#
+$CMP USB-MICRO-B
+D USB Micro B connector
+K USB Micro B, USB
+$ENDCMP
+#
+$CMP USB-MINI-B
+D USB Mini B connector
+K USB Mini B, USB
+$ENDCMP
+#
+#End Doc Library

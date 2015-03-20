@@ -1,0 +1,13 @@
+(module MUYF-05XX-4BH806 (layer F.Cu) (tedit 54D72633)
+  (fp_text reference MUYF-05XX-4BH806 (at 0 0) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 5 smd rect (at 1.3 0 180) (size 0.4 1.4) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 0.65 0 180) (size 0.4 1.4) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 0 0 180) (size 0.4 1.4) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at -0.65 0 180) (size 0.4 1.4) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at -1.3 0 180) (size 0.4 1.4) (layers F.Cu F.Paste F.Mask))
+)

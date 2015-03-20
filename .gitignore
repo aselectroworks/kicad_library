@@ -1,3 +1,9 @@
 #kicad library backup files
-*.bak
-*.bck
+*.*
+!*.dcm
+!*.lib
+!*.kicad_mod
+!*.wings
+!*.wrl
+!.gitignore
+!*.md

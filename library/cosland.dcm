@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DTS-62N
+D Tact Swiches, DC12V, 50mA
+K switch
+F http://akizukidenshi.com/download/ds/cosland/DTS-6-V.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,5 +1,0 @@
-Silkscreen size:0.8128mmx0.8218mm(32milx32mil) thick:0.1524mm(6mil)
-Document Footprint name
-keyword 
-reference footprint nama
-constants ex. U*** SW*** 

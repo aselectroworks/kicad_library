@@ -1,4 +1,40 @@
-EESchema-DOCLIB  Version 2.0  Date: 2014/03/30 10:11:58
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC807-16
+D BC807-16, 45V Vce, 0.5A Ic, PNP, SOT-23
+K BC807
+F http://www.onsemi.com/pub_link/Collateral/BC807-16LT1-D.PDF
+$ENDCMP
+#
+$CMP MC74HC138ADR2G
+D IC DECODER/DEMUX 1:8 16SOIC
+K 1-of-8 Decoder/Demultiplexer
+F http://www.onsemi.com/pub_link/Collateral/MC74HC138A-D.PDF
+$ENDCMP
+#
+$CMP MC74HC138ADTR2G
+D IC DECODER/DEMUX 1:8 16TSSOP
+K 1-of-8 Decoder/Demultiplexer
+F http://www.onsemi.com/pub_link/Collateral/MC74HC138A-D.PDF
+$ENDCMP
+#
+$CMP MC74HC138ANG
+D IC DECODER/DEMUX 1:8 16DIP
+K 1-of-8 Decoder/Demultiplexer
+F http://www.onsemi.com/pub_link/Collateral/MC74HC138A-D.PDF
+$ENDCMP
+#
+$CMP MMUN2111LT1G
+D TRANS PREBIAS PNP 246MW SOT23-3
+K TRANS PREBIAS PNP 246MW SOT23-3
+F http://www.onsemi.com/pub_link/Collateral/BC807-16LT1-D.PDF
+$ENDCMP
+#
+$CMP MMUN2211LT3G
+D TRANS PREBIAS PNP 246MW SOT23-3
+K TRANS PREBIAS PNP 246MW SOT23-3
+F http://www.onsemi.com/pub_link/Collateral/BC807-16LT1-D.PDF
+$ENDCMP
 #
 $CMP SA571
 D Compandor

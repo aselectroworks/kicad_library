@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# DTS-62N
+#
+DEF DTS-62N SW 0 0 N Y 1 F N
+F0 "SW" -200 260 50 H V L CNN
+F1 "DTS-62N" -200 200 50 H V L CNN
+F2 "" 175 150 60 H V C CNN
+F3 "http://akizukidenshi.com/download/ds/cosland/DTS-6-V.PDF" 175 150 60 H I C CNN
+DRAW
+C 0 -40 10 0 0 0 N
+C 0 40 10 0 0 0 N
+P 2 0 1 0  0 -100  0 -50 N
+P 2 0 1 0  0 50  0 100 N
+P 2 0 1 0  10 35  25 -40 N
+X 1 1 -100 100 100 R 40 40 1 1 P
+X 2 2 100 100 100 L 40 40 1 1 P
+X 3 3 -100 -100 100 R 40 40 1 1 P
+X 4 4 100 -100 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
