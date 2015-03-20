@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AJ-1780
+D 3.5mm stereo jack with switch
+K 3.5mm jack stereo switch
+F http://akizukidenshi.com/download/AJ-1780.pdf
+$ENDCMP
+#
+#End Doc Library

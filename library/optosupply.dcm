@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OSB50805C1C
+D 2.0x1.25x1.0mm SMD Single Chip Blue LED
+K Blue LED 0805 2012metric
+F http://www.optosupply.com/UploadFile/PDF/osxx0805c1c.pdf
+$ENDCMP
+#
+$CMP OSTG1608C1A
+D 1.6x0.8x0.4mm SMD Single Chip Pure Green LED
+K Pure Green LED 0603 1608metric
+F http://www.optosupply.com/UploadFile/PDF/ostg1608c1aver.a.2.pdf
+$ENDCMP
+#
+$CMP OSWT1608C1A
+D 1.6x0.8x0.4mm SMD Single Chip White LED
+K White LED 0603 1608metric
+F http://www.optosupply.com/UploadFile/PDF/osxx1608c1aver.a.5.pdf
+$ENDCMP
+#
+$CMP OSXX0805C1C
+D 2.0x1.25x1.0mm SMD Single Chip LED
+K LED 0805 2012metric
+F http://akizukidenshi.com/download/ds/optosupply/OSXX0805C1C.pdf
+$ENDCMP
+#
+$CMP OSXX1608C1A
+D 1.6x0.8x0.4mm SMD Single Chip LED
+K LED 0603 1608metric
+F http://akizukidenshi.com/download/ds/optosupply/OSXX1608C1A_VerA2.pdf
+$ENDCMP
+#
+#End Doc Library

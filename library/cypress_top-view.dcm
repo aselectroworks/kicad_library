@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CY8C52LP
+D Programmable System-on-Chip (PSoC®)
+K PSoC5LP CY8C52LP
+F http://www.cypress.com/?docID=49440
+$ENDCMP
+#
+#End Doc Library

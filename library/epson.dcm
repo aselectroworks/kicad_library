@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSX-3225
+D CRYSTAL
+K Crystal SMD
+F http://www.epsondevice.com/docs/qd/ja/DownloadServlet?id=ID000798
+$ENDCMP
+#
+$CMP TSX-3225_16.0000MF18X-AC3
+D CRYSTAL 16MHz
+K Crystal SMD 16MHz
+F http://www.epsondevice.com/docs/qd/ja/DownloadServlet?id=ID000798
+$ENDCMP
+#
+#End Doc Library

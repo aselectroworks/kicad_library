@@ -1,9 +1,75 @@
-EESchema-DOCLIB  Version 2.0  Date: 2013/11/17 20:14:39
+EESchema-DOCLIB  Version 2.0
 #
 $CMP 1SS355VMTE-17
 D High frequency switching Diode
 K High frequency switch
 F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/switching/1ss355.pdf
+$ENDCMP
+#
+$CMP MCR01MRTJ
+D MCR01MRTJ
+K RES SMD xxx OHM 5% 1/16W 0402 1005Metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR01MRTJ000
+D RES SMD 0 OHM 5% 1/16W 0402 1005metric
+K RES SMD 0 OHM 5% 1/16W 0402 1005metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR01MRTJ101
+D RES SMD 100 OHM 5% 1/16W 0402 1005metric
+K RES SMD 100 OHM 5% 1/16W 0402 1005metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR01MRTJ102
+D RES SMD 1K OHM 5% 1/16W 0402 1005metric
+K RES SMD 1K OHM 5% 1/16W 0402 1005metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR01MRTJ332
+D RES SMD 3.3K OHM 5% 1/16W 0402 1005Metric
+K RES SMD 3.3K OHM 5% 1/16W 0402 1005Metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR01MRTJ103
+D RES SMD 10K OHM 5% 1/16W 0402 1005metric
+K RES SMD 10K OHM 5% 1/16W 0402 1005metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR01MRTJ104
+D RES SMD 100K OHM 5% 1/16W 0402 1005metric
+K RES SMD 100K OHM 5% 1/16W 0402 1005metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR18ERTJ
+D MCR18ERTJ
+K RES SMD xxx OHM 5% 1/4W 1206 3216Metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR18ERTJ101
+D RES SMD 100 OHM 5% 1/4W 1206 3216Metric
+K RES SMD 100 OHM 5% 1/4W 1206 3216Metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR18EZHJ103
+D RES SMD 10K OHM 5% 1/4W 1206 3216Metric
+K RES SMD 10K OHM 5% 1/4W 1206 3216Metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR18EZHJ331
+D RES SMD 330 OHM 5% 1/4W 1206 3216Metric
+K RES SMD 330 OHM 5% 1/4W 1206 3216Metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
 $ENDCMP
 #
 #End Doc Library

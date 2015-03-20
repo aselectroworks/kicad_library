@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GRM15
+D Murata GRM15 Series
+K CAP CER 0402 1005Metric
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
+$ENDCMP
+#
+$CMP GRM1555C1H102JA01D
+D CAP CER 1000PF 50V 5% NP0 0402
+K CAP CER 1000PF 50V 5% NP0 0402
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
+$ENDCMP
+#
+$CMP GRM1555C1H9R0DA01D
+D CAP CER 9PF 50V NP0 0402 1005Metric
+K CAP CER 9PF 50V NP0 0402 1005Metric
+F http://psearch.murata.co.jp/capacitor/product/GRM1555C1H9R0DA01%23.html
+$ENDCMP
+#
+$CMP GRM155R61C104KA88D
+D CAP CER 0.1UF 16V 10% X5R 0402 1005Metric
+K CAP CER 0.1UF 16V 10% X5R 0402 1005Metric
+F http://psearch.murata.co.jp/capacitor/product/GRM155R61C104KA88%23.html
+$ENDCMP
+#
+$CMP GRM21
+D Murata GRM21 Series
+K CAP CER 0805 2012Metric
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
+$ENDCMP
+#
+$CMP GRM21BR61C475KA88L
+D CAP CER 4.7UF 16V 10% X5R 0805 2012Metric
+K CAP CER 4.7UF 16V 10% X5R 0805 2012Metric
+F http://psearch.murata.co.jp/capacitor/product/GRM21BR61C475KA88%23.html
+$ENDCMP
+#
+#End Doc Library

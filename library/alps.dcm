@@ -1,9 +1,15 @@
-EESchema-DOCLIB  Version 2.0  Date: 2013/12/22 10:16:19
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RK09D1130C1B
+D 20VDC, Vertical, 20mm, 10k
+K R
+F http://www.alps.com/prod/info/J/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09D1130C1B.html
+$ENDCMP
 #
 $CMP RK09K1130AAU
-D Potentionmetre
+D 20VDC, Vertical, 20mm, 10k
 K R
-F http://www.alps.com/WebObjects/catalog.woa/J/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K1130AAU.html
+F http://www.alps.com/prod/info/J/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K1130AAU.html
 $ENDCMP
 #
 #End Doc Library

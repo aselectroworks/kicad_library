@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BM07B-SRSS-TB
+D CONN HEADER SH 7POS TOP 1MM TIN
+K CONN HEADER SH 7POS TOP 1MM TIN
+F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
+$CMP BM10B-SRSS-TB
+D CONN HEADER SH 10POS TOP 1MM TIN
+K CONN HEADER SH 10POS TOP 1MM TIN
+F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
+$CMP BM15B-SRSS-TB
+D CONN HEADER SH 15POS TOP 1MM TIN
+K CONN HEADER SH 15POS TOP 1MM TIN
+F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,48 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# GRM15
+#
+DEF GRM15 C 0 10 N Y 1 F N
+F0 "C" 125 0 50 V V C CNN
+F1 "GRM15" 200 0 50 V V C CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" 50 100 60 H I C CNN
+F4 "1005" 0 0 20 H V C CNN "Size"
+ALIAS GRM155R61C104KA88D GRM1555C1H9R0DA01D GRM1555C1H102JA01D
+$FPLIST
+ GRM15*
+ C_0402
+ C_0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 100 70 D 40 40 1 1 P
+X ~ 2 0 -100 70 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GRM21
+#
+DEF GRM21 C 0 10 N Y 1 F N
+F0 "C" 125 0 50 V V C CNN
+F1 "GRM21" 200 0 50 V V C CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" 50 100 60 H I C CNN
+F4 "2012" 0 0 20 H V C CNN "Size"
+ALIAS GRM21BR61C475KA88L
+$FPLIST
+ GRM21*
+ C_1206
+ C_1206*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 100 70 D 40 40 1 1 P
+X ~ 2 0 -100 70 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
