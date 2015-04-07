@@ -135,7 +135,7 @@
   (pad J2-3 thru_hole circle (at 3.81 13.97 180) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad J2-5 thru_hole circle (at -1.27 13.97 180) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad J2-4 thru_hole circle (at 1.27 13.97 180) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model Aides_Technology/eVY1.wrl
+  (model Aides_Technology.3dshapes/eVY1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

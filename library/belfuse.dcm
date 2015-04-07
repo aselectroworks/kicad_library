@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0ZCJ0150FF2C
+D PTC RESTTBLE 1.50A 6V CHIP 1206
+K PTC RESTTBLE 1.50A 6V CHIP 1206
+F http://www.belfuse.com/pdfs/0ZCJ.pdf
+$ENDCMP
+#
+#End Doc Library

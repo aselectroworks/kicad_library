@@ -21,7 +21,7 @@ $ENDCMP
 $CMP ATMEGA328P-A
 D ATMEGA328P, TQFP32, 32k Flash, 2kB SRAM, 1kB EEPROM
 K AVR 8bit Microcontroller MegaAVR PicoPower
-F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+F http://www.atmel.com/images/Atmel-8271-8-bit-AVR-Microcontroller-ATmega48A-48PA-88A-88PA-168A-168PA-328-328P_datasheet_Complete.pdf
 $ENDCMP
 #
 $CMP ATMEGA48A-A

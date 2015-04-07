@@ -13,4 +13,9 @@
   (pad 1 thru_hole circle (at -4 7.5 180) (size 1.308 1.308) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -5 -2.5 180) (size 1.708 1.708) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 5 -2.5 180) (size 1.708 1.708) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
+  (model Debon_Electronics.3dshapes/DB-1001G.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

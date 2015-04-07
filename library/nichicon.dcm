@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP1_Small
+D Polarised capacitor
+$ENDCMP
+#
+$CMP UWT
+D nichicon WT series
+K CAP ALUM xxUF xxV xx% SMD
+F http://nichicon-us.com/english/products/pdfs/e-wt.pdf
+$ENDCMP
+#
+$CMP UWT1H010MCL1GB
+D CAP ALUM 1.0UF 50V 20% SMD
+K CAP ALUM 1.0UF 50V 20% SMD
+F http://nichicon-us.com/english/products/pdfs/e-wt.pdf
+$ENDCMP
+#
+$CMP UWT1HR47MCL1GB
+D CAP ALUM 0.47UF 50V 20% SMD
+K CAP ALUM 0.47UF 50V 20% SMD
+F http://nichicon-us.com/english/products/pdfs/e-wt.pdf
+$ENDCMP
+#
+#End Doc Library

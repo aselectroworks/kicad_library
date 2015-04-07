@@ -40,7 +40,7 @@
   (pad 3 thru_hole oval (at 4.99936 -0.0023) (size 1.49606 1.49606) (drill 0.99822) (layers *.Cu *.Mask))
   (pad "" np_thru_hole rect (at -1.9 -7) (size 1.8 2.1) (drill oval 1.8 2.1) (layers *.Cu *.Paste *.SilkS *.Mask))
   (pad "" np_thru_hole rect (at 6.9 -7) (size 1.8 2.1) (drill oval 1.8 2.1) (layers *.Cu *.Paste *.SilkS *.Mask))
-  (model E:/Dropbox/dev/prj/kicad_library/modules/packages3d/ALPS/RK09D1130-20.wrl
+  (model ALPS.3dshapes/RK09D1130-20.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
     (rotate (xyz 0 0 0))
