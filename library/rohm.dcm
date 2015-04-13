@@ -78,6 +78,18 @@ K RES SMD 22K OHM 5% 1/10W 0603
 F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
 $ENDCMP
 #
+$CMP MCR10EZPJ
+D MCR10EZPJ
+K RES SMD XXXOHM JUMPER 1/8W 0805
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR10EZPJ000
+D RES SMD 0.0 OHM JUMPER 1/8W 0805
+K RES SMD 0.0 OHM JUMPER 1/8W 0805
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
 $CMP MCR18ERTJ
 D MCR18ERTJ
 K RES SMD xxx OHM 5% 1/4W 1206 3216Metric

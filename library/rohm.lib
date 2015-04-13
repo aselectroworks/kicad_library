@@ -62,6 +62,24 @@ X ~ 2 0 -200 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
+# MCR10EZPJ
+#
+DEF MCR10EZPJ R 0 0 N Y 1 F N
+F0 "R" 75 0 50 V V C CNN
+F1 "MCR10EZPJ" 125 0 50 V V C CNN
+F2 "2012" -60 0 30 V V C CNN
+F3 "http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf" 80 0 30 V I C CNN
+ALIAS MCR10EZPJ000
+$FPLIST
+ MCR10*
+$ENDFPLIST
+DRAW
+P 8 0 1 0  0 -100  -40 -80  40 -50  -40 -20  40 20  -40 50  40 80  0 100 N
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
 # MCR18ERTJ
 #
 DEF MCR18ERTJ R 0 0 N Y 1 F N

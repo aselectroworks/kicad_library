@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# NPTH_3mm
+#
+DEF NPTH_3mm TH 0 10 N N 1 F N
+F0 "TH" 90 75 50 H V L CNN
+F1 "NPTH_3mm" 105 -25 50 H V L CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ NPTH_3mm
+ NPTH*
+$ENDFPLIST
+DRAW
+C 0 0 100 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
