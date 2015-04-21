@@ -1,4 +1,4 @@
-(module AJ-1780 (layer F.Cu) (tedit 54D7203E)
+(module AJ-1780 (layer F.Cu) (tedit 5535944C)
   (descr AJ-1780)
   (tags "3.5mm jack")
   (fp_text reference AJ-1780 (at 0 0) (layer F.SilkS)
@@ -15,11 +15,11 @@
   (fp_line (start 7.1 5.8) (end -7.1 5.8) (layer F.SilkS) (width 0.15))
   (fp_line (start -7.1 5.8) (end -7.1 -5.8) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole oval (at -5.4 0) (size 1.508 2.308) (drill oval 1 1.8) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole oval (at 3.1 5.4) (size 2.308 1.508) (drill oval 1.8 1) (layers *.Cu *.Mask F.SilkS))
-  (pad 3 thru_hole oval (at 1.4 2.9) (size 2.308 1.508) (drill oval 1.8 1) (layers *.Cu *.Mask F.SilkS))
-  (pad 4 thru_hole oval (at 5.9 -4.3) (size 1.508 2.308) (drill oval 1 1.8) (layers *.Cu *.Mask F.SilkS))
-  (pad 5 thru_hole oval (at -1.9 -4.6) (size 2.308 1.508) (drill oval 1.8 1) (layers *.Cu *.Mask F.SilkS))
-  (model UNITED_AU-VI/AJ-1780.wrl
+  (pad 2 thru_hole oval (at 3.1 -5.4) (size 2.308 1.508) (drill oval 1.8 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 3 thru_hole oval (at 1.4 -2.9) (size 2.308 1.508) (drill oval 1.8 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 4 thru_hole oval (at 5.9 4.3) (size 1.508 2.308) (drill oval 1 1.8) (layers *.Cu *.Mask F.SilkS))
+  (pad 5 thru_hole oval (at -1.9 4.6) (size 2.308 1.508) (drill oval 1.8 1) (layers *.Cu *.Mask F.SilkS))
+  (model UNITED_AU-VI.3dshapes/AJ-1780.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

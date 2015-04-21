@@ -6,6 +6,12 @@ K Blue LED 0805 2012metric
 F http://www.optosupply.com/UploadFile/PDF/osxx0805c1c.pdf
 $ENDCMP
 #
+$CMP OSTBABS4C2B
+D 5x5x1.5mm Red & Pure Green & Blue Top SMD LED
+K LED 5050 
+F http://akizukidenshi.com/download/ds/optosupply/OSTBABS4C2B_ver1.pdf
+$ENDCMP
+#
 $CMP OSTG1608C1A
 D 1.6x0.8x0.4mm SMD Single Chip Pure Green LED
 K Pure Green LED 0603 1608metric

@@ -21,7 +21,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model Resistors_SMD/R_0402.wrl
+  (model Resistors_SMD.3dshapes/R_0402.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

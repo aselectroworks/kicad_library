@@ -24,16 +24,22 @@ K 1-of-8 Decoder/Demultiplexer
 F http://www.onsemi.com/pub_link/Collateral/MC74HC138A-D.PDF
 $ENDCMP
 #
+$CMP MM3Z5V6ST1G
+D DIODE ZENER 5.6V 200MW SOD323
+K DIODE ZENER 5.6V 200MW SOD323
+F http://www.onsemi.com/pub_link/Collateral/MM3Z2V4ST1-D.PDF
+$ENDCMP
+#
 $CMP MMUN2111LT1G
 D TRANS PREBIAS PNP 246MW SOT23-3
 K TRANS PREBIAS PNP 246MW SOT23-3
-F http://www.onsemi.com/pub_link/Collateral/BC807-16LT1-D.PDF
+F http://www.onsemi.com/pub_link/Collateral/DTA114E-D.PDF
 $ENDCMP
 #
 $CMP MMUN2211LT3G
 D TRANS PREBIAS PNP 246MW SOT23-3
 K TRANS PREBIAS PNP 246MW SOT23-3
-F http://www.onsemi.com/pub_link/Collateral/BC807-16LT1-D.PDF
+F http://www.onsemi.com/pub_link/Collateral/DTC114E-D.PDF
 $ENDCMP
 #
 $CMP SA571

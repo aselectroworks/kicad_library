@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM4871LD
+D IC AMP AUDIO PWR 3W MONO AB 8LLP
+K IC AMP AUDIO PWR 3W MONO AB 8LLP
+F http://www.ti.com/lit/ds/symlink/lm4871.pdf
+$ENDCMP
+#
+$CMP LM4871MM/NOPB
+D IC AMP AUDIO PWR 3W MONO 8VSSOP	
+K IC AMP AUDIO PWR 3W MONO 8VSSOP	
+F http://www.ti.com/lit/ds/symlink/lm4871.pdf
+$ENDCMP
+#
+$CMP LM4950TS
+D LM4950TS, Audio 3.1W Stereo Power Amplifier, TO263-9
+K LM4950 Stereo Power Aplifier 3.1W
+F http://www.ti.com/lit/ds/symlink/lm4950.pdf
+$ENDCMP
+#
+#End Doc Library

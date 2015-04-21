@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BLM18PG330SN1D
+D FERRITE CHIP 33 OHM 3000MA 0603
+K FERRITE CHIP 33 OHM 3000MA 0603
+F http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM18P.pdf
+$ENDCMP
+#
 $CMP GRM15
 D Murata GRM15 Series
 K CAP CER 0402 1005Metric
@@ -22,6 +28,12 @@ $CMP GRM155R61C104KA88D
 D CAP CER 0.1UF 16V 10% X5R 0402 1005Metric
 K CAP CER 0.1UF 16V 10% X5R 0402 1005Metric
 F http://psearch.murata.co.jp/capacitor/product/GRM155R61C104KA88%23.html
+$ENDCMP
+#
+$CMP GRM18
+D Murata GRM18 Series
+K CAP CER 0603 1608Metric
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
 $ENDCMP
 #
 $CMP GRM21

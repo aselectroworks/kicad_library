@@ -30,12 +30,6 @@ K RES SMD 1K OHM 5% 1/16W 0402 1005metric
 F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
 $ENDCMP
 #
-$CMP MCR01MRTJ332
-D RES SMD 3.3K OHM 5% 1/16W 0402 1005Metric
-K RES SMD 3.3K OHM 5% 1/16W 0402 1005Metric
-F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
-$ENDCMP
-#
 $CMP MCR01MRTJ103
 D RES SMD 10K OHM 5% 1/16W 0402 1005metric
 K RES SMD 10K OHM 5% 1/16W 0402 1005metric
@@ -48,9 +42,69 @@ K RES SMD 100K OHM 5% 1/16W 0402 1005metric
 F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
 $ENDCMP
 #
+$CMP MCR01MRTJ221
+D RES SMD 220 OHM 5% 1/16W 0402 1005Metric
+K RES SMD 220 OHM 5% 1/16W 0402 1005Metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR01MRTJ332
+D RES SMD 3.3K OHM 5% 1/16W 0402 1005Metric
+K RES SMD 3.3K OHM 5% 1/16W 0402 1005Metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR01MRTJ680
+D RES SMD 68 OHM 5% 1/16W 0402 1005Metric
+K RES SMD 68 OHM 5% 1/16W 0402 1005Metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR03ERTJ
+D MCR03ERTJ
+K RES SMD xxxOHM 5% 1/10W 0603
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR03ERTJ183
+D RES SMD 18K OHM 5% 1/10W 0603
+K RES SMD 18K OHM 5% 1/10W 0603
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR03ERTJ203
+D RES SMD 20K OHM 5% 1/10W 0603
+K RES SMD 20K OHM 5% 1/10W 0603
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR03ERTJ223
+D RES SMD 22K OHM 5% 1/10W 0603
+K RES SMD 22K OHM 5% 1/10W 0603
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR10EZPJ
+D MCR10EZPJ
+K RES SMD XXXOHM JUMPER 1/8W 0805
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR10EZPJ000
+D RES SMD 0.0 OHM JUMPER 1/8W 0805
+K RES SMD 0.0 OHM JUMPER 1/8W 0805
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
 $CMP MCR18ERTJ
 D MCR18ERTJ
 K RES SMD xxx OHM 5% 1/4W 1206 3216Metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR18ERTJ000
+D RES SMD 0.0 OHM JUMPER 1/4W 1206
+K RES SMD 0.0 OHM JUMPER 1/4W 1206
 F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
 $ENDCMP
 #
@@ -70,6 +124,12 @@ $CMP MCR18EZHJ331
 D RES SMD 330 OHM 5% 1/4W 1206 3216Metric
 K RES SMD 330 OHM 5% 1/4W 1206 3216Metric
 F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP RB161M-20
+D DIODE SCHOTTKY 20V 1A PMDU
+K DIODE SCHOTTKY 20V 1A PMDU
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rb161m-20.pdf
 $ENDCMP
 #
 #End Doc Library

@@ -12,7 +12,7 @@
   (fp_line (start 1.27 1.27) (end 1.27 -1.27) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.27 -1.27) (end -1.27 -1.27) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole rect (at 0 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model E:/Dropbox/dev/prj/kicad-library/modules/packages3d/Neltron_Industrial/2212S-01SG-36.wrl
+  (model Neltron_Industrial.3dshapes/2212S-01SG-36.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

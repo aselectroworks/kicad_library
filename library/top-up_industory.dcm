@@ -6,4 +6,10 @@ K ENCODER 12mm EC12P LED
 F http://www.top-up.com.tw/front/bin/ptdetail.phtml?Part=EC12PLRGBSDVBF-D&Category=325301
 $ENDCMP
 #
+$CMP TSHD-T-2.8T2-W-6H
+D Tactile Switch with LED
+K Tact LED
+F http://www.top-up.com.tw/front/bin/download.phtml?Part=TSHU-T-2-8T1-W&Nbr=51749&Category=131548
+$ENDCMP
+#
 #End Doc Library

@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HTG-1615HRGBC-3
+D 1.6x1.5x0.55mm SMD Full Color Chip LED
+K Full-Color LED 0603 1608metric
+F http://bit.ly/1aIPzKt
+$ENDCMP
+#
+$CMP OSTG1608C1A
+D 1.6x0.8x0.4mm SMD Single Chip Pure Green LED
+K Pure Green LED 0603 1608metric
+F http://www.optosupply.com/UploadFile/PDF/ostg1608c1aver.a.2.pdf
+$ENDCMP
+#
+$CMP OSWT1608C1A
+D 1.6x0.8x0.4mm SMD Single Chip White LED
+K White LED 0603 1608metric
+F http://www.optosupply.com/UploadFile/PDF/osxx1608c1aver.a.5.pdf
+$ENDCMP
+#
+$CMP OSXX1608C1A
+D 1.6x0.8x0.4mm SMD Single Chip LED
+K LED 0603 1608metric
+F http://akizukidenshi.com/download/ds/optosupply/OSXX1608C1A_VerA2.pdf
+$ENDCMP
+#
+#End Doc Library

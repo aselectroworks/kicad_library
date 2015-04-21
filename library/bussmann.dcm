@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MLVB04V09C005
+D Multilayer Varistor ESD Suppressor MLVB Series
+K VARISTOR 14V 0402
+F http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/Bus_Elx_DS_4071_MLVB_Series.pdf
+$ENDCMP
+#
+#End Doc Library
