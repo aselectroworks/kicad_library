@@ -54,6 +54,12 @@ K RES SMD 3.3K OHM 5% 1/16W 0402 1005Metric
 F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
 $ENDCMP
 #
+$CMP MCR01MRTJ680
+D RES SMD 68 OHM 5% 1/16W 0402 1005Metric
+K RES SMD 68 OHM 5% 1/16W 0402 1005Metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
 $CMP MCR03ERTJ
 D MCR03ERTJ
 K RES SMD xxxOHM 5% 1/10W 0603
