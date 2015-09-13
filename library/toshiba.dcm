@@ -1,3 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: 2013/12/22 14:43:44
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SSM3J328R
+D MOSFET P-Channel, Metal Oxide
+K MOSFET P-Channel, Metal Oxide
+F http://www.semicon.toshiba.co.jp/info/docget.jsp?type=datasheet&lang=en&pid=SSM3J328R
+$ENDCMP
 #
 #End Doc Library

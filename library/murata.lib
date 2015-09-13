@@ -26,7 +26,7 @@ F0 "C" 125 0 50 V V C CNN
 F1 "GRM15" 200 0 50 V V C CNN
 F2 "" 38 -150 30 H V C CNN
 F3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" 50 100 60 H I C CNN
-F4 "1005" 0 0 20 H V C CNN "Size"
+F4 "1005" 0 0 10 H V C CNN "Size"
 ALIAS GRM155R61C104KA88D GRM1555C1H9R0DA01D GRM1555C1H102JA01D
 $FPLIST
  GRM15*
@@ -34,10 +34,10 @@ $FPLIST
  C_0402*
 $ENDFPLIST
 DRAW
-P 2 0 1 20  -80 -30  80 -30 N
-P 2 0 1 20  -80 30  80 30 N
-X ~ 1 0 100 70 D 40 40 1 1 P
-X ~ 2 0 -100 70 U 40 40 1 1 P
+P 2 0 1 5  -40 -15  40 -15 N
+P 2 0 1 5  -40 15  40 15 N
+X ~ 1 0 50 35 D 40 40 1 1 P
+X ~ 2 0 -50 35 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -46,18 +46,20 @@ ENDDEF
 DEF GRM18 C 0 10 N Y 1 F N
 F0 "C" 125 0 50 V V C CNN
 F1 "GRM18" 200 0 50 V V C CNN
-F2 "1608" 0 0 20 H V C CNN
+F2 "" 0 0 10 H V C CNN
 F3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" 50 100 60 H I C CNN
+F4 "1608" 0 0 10 H V C CNN "Size"
+ALIAS GRM188R60J106ME47J GRM188R61E106MA73D
 $FPLIST
  GRM18*
  C_1608
  C_1608*
 $ENDFPLIST
 DRAW
-P 2 0 1 20  -80 -30  80 -30 N
-P 2 0 1 20  -80 30  80 30 N
-X ~ 1 0 100 70 D 40 40 1 1 P
-X ~ 2 0 -100 70 U 40 40 1 1 P
+P 2 0 1 5  -40 -15  40 -15 N
+P 2 0 1 5  -40 15  40 15 N
+X ~ 1 0 50 35 D 40 40 1 1 P
+X ~ 2 0 -50 35 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -68,18 +70,40 @@ F0 "C" 125 0 50 V V C CNN
 F1 "GRM21" 200 0 50 V V C CNN
 F2 "" 38 -150 30 H V C CNN
 F3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" 50 100 60 H I C CNN
-F4 "2012" 0 0 20 H V C CNN "Size"
-ALIAS GRM21BR61C475KA88L
+F4 "2012" 0 0 10 H V C CNN "Size"
+ALIAS GRM21A5C2E100JW01D GRM21BR61C475KA88L
 $FPLIST
  GRM21*
  C_0805
  C_0805*
 $ENDFPLIST
 DRAW
-P 2 0 1 20  -80 -30  80 -30 N
-P 2 0 1 20  -80 30  80 30 N
-X ~ 1 0 100 70 D 40 40 1 1 P
-X ~ 2 0 -100 70 U 40 40 1 1 P
+P 2 0 1 5  -40 -15  40 -15 N
+P 2 0 1 5  -40 15  40 15 N
+X ~ 1 0 50 35 D 40 40 1 1 P
+X ~ 2 0 -50 35 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GRM31
+#
+DEF GRM31 C 0 10 N Y 1 F N
+F0 "C" 125 0 50 V V C CNN
+F1 "GRM31" 200 0 50 V V C CNN
+F2 "" 38 -150 30 H V C CNN
+F3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" 50 100 60 H I C CNN
+F4 "3216" 0 0 10 H V C CNN "Size"
+ALIAS GRM31M5C1H473JA01L GRM31C5C1E104JA01L
+$FPLIST
+ GRM31*
+ C_1206
+ C_1206*
+$ENDFPLIST
+DRAW
+P 2 0 1 5  -40 -15  40 -15 N
+P 2 0 1 5  -40 15  40 15 N
+X ~ 1 0 50 35 D 40 40 1 1 P
+X ~ 2 0 -50 35 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #

@@ -42,6 +42,12 @@ K RES SMD 100K OHM 5% 1/16W 0402 1005metric
 F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
 $ENDCMP
 #
+$CMP MCR01MRTJ105
+D RES SMD 1M OHM 5% 1/16W 0402 1005Metric
+K RES SMD 1M OHM 5% 1/16W 0402 1005Metric
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
 $CMP MCR01MRTJ221
 D RES SMD 220 OHM 5% 1/16W 0402 1005Metric
 K RES SMD 220 OHM 5% 1/16W 0402 1005Metric
@@ -58,6 +64,102 @@ $CMP MCR01MRTJ680
 D RES SMD 68 OHM 5% 1/16W 0402 1005Metric
 K RES SMD 68 OHM 5% 1/16W 0402 1005Metric
 F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF
+D MCR03ERTF
+K RES SMD xxxOHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF1001
+D RES SMD 1K OHM 1% 1/10W 0603
+K RES SMD 1K OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF1002
+D RES SMD 10K OHM 1% 1/10W 0603
+K RES SMD 10K OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF1003
+D RES SMD 100K OHM 1% 1/10W 0603
+K RES SMD 100K OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF1004
+D RES SMD 1M OHM 1% 1/10W 0603
+K RES SMD 1M OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF1501
+D RES SMD 1.5K OHM 1% 1/10W 0603
+K RES SMD 1.5K OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF1502
+D RES SMD 15K OHM 1% 1/10W 0603
+K RES SMD 15K OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF2001
+D RES SMD 2K OHM 1% 1/10W 0603
+K RES SMD 2K OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF2204
+D RES SMD 2.2M OHM 1% 1/10W 0603
+K RES SMD 2.2M OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF2702
+D RES SMD 27K OHM 1% 1/10W 0603
+K RES SMD 27K OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF3901
+D RES SMD 3.9K OHM 1% 1/10W 0603
+K RES SMD 3.9K OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF3923
+D RES SMD 392K OHM 1% 1/10W 0603
+K RES SMD 392K OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF4223
+D RES SMD 422K OHM 1% 1/10W 0603
+K RES SMD 422K OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF4702
+D RES SMD 47K OHM 1% 1/10W 0603
+K RES SMD 47K OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF4991
+D RES SMD 4.99K OHM 1% 1/10W 0603
+K RES SMD 4.99K OHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
+$ENDCMP
+#
+$CMP MCR03ERTF5600
+D RES SMD 680 OHM 1% 1/10W 0603
+K RES SMD xxxOHM 1% 1/10W 0603
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g.pdf
 $ENDCMP
 #
 $CMP MCR03ERTJ
@@ -81,6 +183,12 @@ $ENDCMP
 $CMP MCR03ERTJ223
 D RES SMD 22K OHM 5% 1/10W 0603
 K RES SMD 22K OHM 5% 1/10W 0603
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
+$ENDCMP
+#
+$CMP MCR03EZPJ000
+D RES SMD 0.0 OHM JUMPER 1/10W
+K RES SMD 0.0 OHM JUMPER 1/10W
 F http://rohmfs.rohm.com/jp/products/databook/datasheet/passive/resistor/chip_resistor/mcr_g-j.pdf
 $ENDCMP
 #

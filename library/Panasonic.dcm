@@ -1,4 +1,16 @@
-EESchema-DOCLIB  Version 2.0  Date: 2013/11/17 17:05:03
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EEE-Bipolar
+D Panasonic Surface Mount Type, Series: S, Type: V
+K CAP ALUM xxUF xxV xx% SMD
+F http://industrial.panasonic.com/lecs/www-data/pdf/ABA0000/ABA0000CE2.pdf
+$ENDCMP
+#
+$CMP EEE1EA3R3NR
+D CAP ALUM 3.3UF 20% 25V SMD
+K CAP ALUM 3.3UF 20% 25V SMD
+F http://industrial.panasonic.com/lecs/www-data/pdf/ABA0000/ABA0000CE2.pdf
+$ENDCMP
 #
 $CMP MN3102
 D CMOS Clock Generator/Driver for Low Voltage Operation BBD

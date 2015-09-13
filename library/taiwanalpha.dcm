@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RV141F-40E3-(L)BL
+D VR 14mm snap-in transparent  shaft
+K VR 14mm snap-in transparent  shaft
+F http://www.taiwanalpha.com.tw/english2014/p_e_032.htm
+$ENDCMP
+#
+$CMP RV141F-40E3-18BL-A100K
+D Potentiometers Linear 18mm 100KA PC MOUNT
+K Potentiometers Linear 18mm 100KA PC MOUNT
+F http://www.taiwanalpha.com.tw/english2014/p_e_032.htm
+$ENDCMP
+#
+$CMP RV141F-40E3-18BL-A500K
+D Potentiometers Linear 18mm 500KA PC MOUNT
+K Potentiometers Linear 18mm 500kA PC MOUNT
+F http://www.taiwanalpha.com.tw/english2014/p_e_032.htm
+$ENDCMP
+#
+$CMP RV141F-40E3-18BL-B100K
+D Potentiometers Linear 18mm 100KB PC MOUNT
+K Potentiometers Linear 18mm 100KB PC MOUNT
+F http://www.taiwanalpha.com.tw/english2014/p_e_032.htm
+$ENDCMP
+#
+#End Doc Library

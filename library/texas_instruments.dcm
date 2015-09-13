@@ -18,4 +18,10 @@ K LM4950 Stereo Power Aplifier 3.1W
 F http://www.ti.com/lit/ds/symlink/lm4950.pdf
 $ENDCMP
 #
+$CMP TL072CPWR
+D IC OPAMP JFET 3MHZ 8TSSOP
+K IC OPAMP JFET 3MHZ 8TSSOP
+F http://www.ti.com/lit/ds/symlink/tl072.pdf
+$ENDCMP
+#
 #End Doc Library

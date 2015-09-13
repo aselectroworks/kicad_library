@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSL06121
+D SWITCH TACTILE ILLUMINATE xxxx SPST-NO 0.05A 24V	
+K tactile switch xxxx LED
+F http://www.khan.cn/en/product-2-0-723.html
+$ENDCMP
+#
+$CMP TSL06121-SC802-DL01E01-RED
+D SWITCH TACTILE ILLMINATE RED SPST-NO 0.05A 24V	
+K tactile switch red LED
+F http://www.khan.cn/en/product-2-0-723.html
+$ENDCMP
+#
+$CMP TSL06121-SC802-DL01E01-WHITE
+D SWITCH TACTILE ILLMINATE WHITE SPST-NO 0.05A 24V	
+K tactile switch white LED
+F http://www.khan.cn/en/product-2-0-723.html
+$ENDCMP
+#
+#End Doc Library

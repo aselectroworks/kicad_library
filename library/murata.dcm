@@ -36,16 +36,52 @@ K CAP CER 0603 1608Metric
 F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
 $ENDCMP
 #
+$CMP GRM188R60J106ME47J
+D CAP CER 10UF 6.3V 20% X5R 0603
+K CAP CER 10UF 6.3V 20% X5R 0603
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
+$ENDCMP
+#
+$CMP GRM188R61E106MA73D
+D CAP CER 10UF 25V 20% X5R 0603
+K CAP CER 10UF 25V 20% X5R 0603
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
+$ENDCMP
+#
 $CMP GRM21
 D Murata GRM21 Series
 K CAP CER 0805 2012Metric
 F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
 $ENDCMP
 #
+$CMP GRM21A5C2E100JW01D
+D CAP CER 10PF 250V 5% NP0 0805
+K CAP CER 10PF 250V 5% NP0 0805
+F http://psearch.murata.co.jp/capacitor/product/GRM21BR61C475KA88%23.html
+$ENDCMP
+#
 $CMP GRM21BR61C475KA88L
 D CAP CER 4.7UF 16V 10% X5R 0805 2012Metric
 K CAP CER 4.7UF 16V 10% X5R 0805 2012Metric
 F http://psearch.murata.co.jp/capacitor/product/GRM21BR61C475KA88%23.html
+$ENDCMP
+#
+$CMP GRM31
+D Murata GRM31 Series
+K CAP CER 1206 3216Metric
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
+$ENDCMP
+#
+$CMP GRM31C5C1E104JA01L
+D CAP CER 0.1UF 50V 5% NP0 1206
+K CAP CER 0.1UF 50V 5% NP0 1206
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
+$ENDCMP
+#
+$CMP GRM31M5C1H473JA01L
+D CAP CER 0.047UF 50V 5% NP0 1206
+K CAP CER 0.047UF 50V 5% NP0 1206
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
 $ENDCMP
 #
 #End Doc Library
