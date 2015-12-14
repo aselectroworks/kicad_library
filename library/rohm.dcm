@@ -6,6 +6,12 @@ K High frequency switch
 F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/switching/1ss355.pdf
 $ENDCMP
 #
+$CMP BD49K23G-TL
+D IC DETECTOR VOLT 2.3V CMOS SSOP3
+K IC DETECTOR VOLT 2.3V CMOS SSOP3
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/voltage_detector/bd48xxg-e.pdf
+$ENDCMP
+#
 $CMP MCR01MRTJ
 D MCR01MRTJ
 K RES SMD xxx OHM 5% 1/16W 0402 1005Metric

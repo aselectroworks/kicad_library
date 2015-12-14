@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TP1.0
+D TEST POINT 1mm
+K TEST POINT 1mm
+$ENDCMP
+#
+#End Doc Library

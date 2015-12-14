@@ -30,6 +30,12 @@ K CAP CER 0.1UF 16V 10% X5R 0402 1005Metric
 F http://psearch.murata.co.jp/capacitor/product/GRM155R61C104KA88%23.html
 $ENDCMP
 #
+$CMP GRM155R61C105KE01D
+D CAP CER 1UF 16V X5R 0402
+K CAP CER 1UF 16V X5R 0402
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
+$ENDCMP
+#
 $CMP GRM18
 D Murata GRM18 Series
 K CAP CER 0603 1608Metric
@@ -39,6 +45,12 @@ $ENDCMP
 $CMP GRM188R60J106ME47J
 D CAP CER 10UF 6.3V 20% X5R 0603
 K CAP CER 10UF 6.3V 20% X5R 0603
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
+$ENDCMP
+#
+$CMP GRM188R61A226ME15D
+D CAP CER 22UF 10V X5R 0603
+K CAP CER 22UF 10V X5R 0603
 F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
 $ENDCMP
 #
@@ -82,6 +94,30 @@ $CMP GRM31M5C1H473JA01L
 D CAP CER 0.047UF 50V 5% NP0 1206
 K CAP CER 0.047UF 50V 5% NP0 1206
 F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
+$ENDCMP
+#
+$CMP LQM2HPN2R2MG0L
+D FIXED IND 2.2UH 1.3A 80 MOHM SMD
+K FIXED IND 2.2UH 1.3A 80 MOHM SMD
+F http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0075S0104LQM2HP_G0.pdf
+$ENDCMP
+#
+$CMP PVG3
+D SMD Sealed Type 3mm Size PVG3 Series
+K SMD Sealed Type 3mm Size PVG3 Series
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/resistor/trimmer/r50e.ashx
+$ENDCMP
+#
+$CMP PVZ3
+D SMD Open Type 3mm Size PVZ3 Series
+K SMD Open Type 3mm Size PVZ3 Series
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/resistor/trimmer/r50e.ashx
+$ENDCMP
+#
+$CMP PVZ3A103C01R00
+D TRIMMER 10K OHM 0.1W SMD
+K TRIMMER 10K OHM 0.1W SMD
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/resistor/trimmer/r50e.ashx
 $ENDCMP
 #
 #End Doc Library

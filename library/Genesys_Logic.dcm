@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GL852G
+D IC USB HUB QFN28
+K USB HUB
+F http://minipcsale.ru/images/Minix-Neo-X8-h/GL852G.pdf
+$ENDCMP
+#
+#End Doc Library

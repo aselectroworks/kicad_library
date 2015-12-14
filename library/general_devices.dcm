@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TRIM
+D VR 14mm snap-in transparent  shaft
+K VR 14mm snap-in transparent  shaft
+F http://www.taiwanalpha.com.tw/english2014/p_e_032.htm
+$ENDCMP
+#
+#End Doc Library

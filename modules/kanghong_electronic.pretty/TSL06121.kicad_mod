@@ -27,4 +27,9 @@
   (pad 1 thru_hole circle (at 2.25 -3.25) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at -2.7 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole circle (at 2.7 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
+  (model kanghong_electronic.3dshapes/TSL06-1.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393 0.393 0.393))
+    (rotate (xyz 0 0 0))
+  )
 )

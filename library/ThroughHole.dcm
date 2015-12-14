@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NPTH_2.2mm
+D Non-Plated Through Hole 2.2mm
+K Non-Plated Through Hole 2.2mm
+$ENDCMP
+#
+$CMP NPTH_2.5mm
+D Non-Plated Through Hole 2.5mm
+K Non-Plated Through Hole 2.5mm
+$ENDCMP
+#
 $CMP NPTH_3mm
 D Non-Plated Through Hole 3mm
 K Non-Plated Through Hole 3mm
