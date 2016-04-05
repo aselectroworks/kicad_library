@@ -24,4 +24,10 @@ K CONN FFC VERT 12POS 0.50MM SMD
 F http://www.molex.com/pdm_docs/sd/781271128_sd.pdf
 $ENDCMP
 #
+$CMP 670688000
+D CONN USB RT ANG RECPT TYPE B BLK
+K CONN USB RT ANG RECPT TYPE B BLK
+F http://www.molex.com/pdm_docs/sd/670688000_sd.pdf
+$ENDCMP
+#
 #End Doc Library

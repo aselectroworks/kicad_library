@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP combo384
+D MODULE USB DAC 384kHz 32BIT DSD128
+K MODULE USB DAC 384kHz 32BIT DSD128
+F http://www.tec-sol.com/products/elec/amanero/combo384-D_ts.pdf
+$ENDCMP
+#
+#End Doc Library

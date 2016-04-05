@@ -24,6 +24,18 @@ K 1-of-8 Decoder/Demultiplexer
 F http://www.onsemi.com/pub_link/Collateral/MC74HC138A-D.PDF
 $ENDCMP
 #
+$CMP MC7808BDTG
+D IC REG LDO 8V 1A DPAK
+K IC REG LDO 8V 1A DPAK
+F http://www.onsemi.com/pub_link/Collateral/MC7800-D.PDF
+$ENDCMP
+#
+$CMP MC79M08BDTG
+D IC REG LDO -8V 0.5A DPAK
+K IC REG LDO -8V 0.5A DPAK
+F http://www.onsemi.com/pub_link/Collateral/MC79M00-D.PDF
+$ENDCMP
+#
 $CMP MM3Z5V6ST1G
 D DIODE ZENER 5.6V 200MW SOD323
 K DIODE ZENER 5.6V 200MW SOD323

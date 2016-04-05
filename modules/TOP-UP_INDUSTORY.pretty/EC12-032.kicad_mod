@@ -1,4 +1,4 @@
-(module EC12-032 (layer F.Cu) (tedit 56530C7A)
+(module EC12-032 (layer F.Cu) (tedit 566E3ADF)
   (descr "Encoder with LED")
   (tags "Encoder LED")
   (fp_text reference REF** (at 0 -8.2) (layer F.SilkS)

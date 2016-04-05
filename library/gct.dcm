@@ -33,13 +33,13 @@ $ENDCMP
 $CMP BG095-08-A-N-D
 D CON SOCKET 8 PIN THROUGHTHOLE
 K CON SOCKET 8 PIN THROUGHTHOLE
-F http://gct.co/PDFjs/web/viewer.html?file=/pcb-board-to-board/pdf/BG095.pdf
+F http://gct.co/pcb-board-to-board/pdf/BG095.pdf
 $ENDCMP
 #
 $CMP BG095-14-A-N-D
 D CON SOCKET 14 PIN THROUGHTHOLE
 K CON SOCKET 14 PIN THROUGHTHOLE
-F http://gct.co/PDFjs/web/viewer.html?file=/pcb-board-to-board/pdf/BG095.pdf
+F http://gct.co/pcb-board-to-board/pdf/BG095.pdf
 $ENDCMP
 #
 #End Doc Library

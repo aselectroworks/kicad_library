@@ -1,0 +1,117 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMU0102
+D MMU0102
+K MELF RES SMD xxx OHM x% xxxW 0102
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C1000FB300
+D MELF Resistors 0.2W 100ohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 100ohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C1001FB300
+D MELF Resistors 0.2W 1Kohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 1Kohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C1003FB300
+D MELF Resistors 0.2W 100Kohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 100Kohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C1503FB300
+D MELF Resistors 0.2W 150Kohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 150Kohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C2201FB300
+D MELF Resistors 0.2W 2.2Kohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 2.2Kohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C2202FB300
+D MELF Resistors 0.2W 22Kohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 22Kohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C2700FB300
+D MELF Resistors 0.2W 270ohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 270ohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C3000FB300
+D MELF Resistors 0.2W 300ohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 300ohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C3303FB300
+D MELF Resistors 0.2W 330Kohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 330Kohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C3901FB300
+D MELF Resistors 0.2W 3.9Kohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 3.9Kohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C3902FB300
+D MELF Resistors 0.2W 39Kohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 39Kohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C4701FB300
+D MELF Resistors 0.2W 4.7Kohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 4.7Kohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C4703FB300
+D MELF Resistors 0.2W 470Kohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 470Kohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C4709FB300
+D MELF Resistors 0.2W 47ohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 47ohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C5601FB300
+D MELF Resistors 0.2W 5.6Kohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 5.6Kohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C6200FB300
+D MELF Resistors 0.2W 620ohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 620ohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C6800FB300
+D MELF Resistors 0.2W 680ohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 680ohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+$CMP MMU01020C7500FB300
+D MELF Resistors 0.2W 750ohms 1% 0102 MELF 150V 50ppm
+K MELF Resistors 0.2W 750ohms 1% 0102 MELF 150V 50ppm
+F http://www.vishay.com/docs/28713/melfprof.pdf
+$ENDCMP
+#
+#End Doc Library

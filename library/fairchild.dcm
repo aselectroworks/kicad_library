@@ -6,4 +6,10 @@ K N-Channel JFET Transistor Low Voltage
 F http://www.fairchildsemi.com/datasheets/MM/MMBF5457.pdf
 $ENDCMP
 #
+$CMP S1G
+D DIODE GEN PURP 400V 1A SMA
+K DIODE GEN PURP 400V 1A SMA
+F http://www.fairchildsemi.com/datasheets/S1/S1A.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -6,16 +6,40 @@ K CONN SOCKET JQ 7POS TOP 2.5MM TIN
 F http://www.jst-mfg.com/product/pdf/jpn/JQ.pdf
 $ENDCMP
 #
+$CMP 11JQ-BT
+D CONN SOCKET JQ 11POS TOP 2.5MM TIN
+K CONN SOCKET JQ 11POS TOP 2.5MM TIN
+F http://www.jst-mfg.com/product/pdf/jpn/JQ.pdf
+$ENDCMP
+#
 $CMP B2B-EH-A
 D CONN HEADER EH TOP 2POS 2.5MM
 K CONN HEADER EH TOP 2POS 2.5MM
 F http://www.jst-mfg.com/product/pdf/eng/eEH.pdf
 $ENDCMP
 #
+$CMP B2B-PH-SM4-TB
+D CONN HEADER PH TOP 2POS 2MM SMD
+K CONN HEADER PH TOP 2POS 2MM SMD
+F http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+$ENDCMP
+#
 $CMP B3B-EH-A
 D CONN HEADER EH TOP 3POS 2.5MM
 K CONN HEADER EH TOP 3POS 2.5MM
 F http://www.jst-mfg.com/product/pdf/eng/eEH.pdf
+$ENDCMP
+#
+$CMP B3B-PH-SM4-TB
+D CONN HEADER PH TOP 3POS 2MM SMD
+K CONN HEADER PH TOP 3POS 2MM SMD
+F http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+$ENDCMP
+#
+$CMP B5B-PH-SM4-TB
+D CONN HEADER PH TOP 5POS 2MM SMD
+K CONN HEADER PH TOP 5POS 2MM SMD
+F http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
 $ENDCMP
 #
 $CMP B7B-XH-A
@@ -52,6 +76,12 @@ $CMP BM15B-SRSS-TB
 D CONN HEADER SH 15POS TOP 1MM TIN
 K CONN HEADER SH 15POS TOP 1MM TIN
 F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
+$CMP S11B-XH-A-1
+D CONN BASE JQ 11POS TOP 2.5MM TIN
+K CONN BASE JQ 11POS TOP 2.5MM TIN
+F http://www.jst-mfg.com/product/pdf/jpn/JQ.pdf
 $ENDCMP
 #
 #End Doc Library

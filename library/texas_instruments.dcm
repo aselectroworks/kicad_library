@@ -1,5 +1,29 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM2991SX/NOPB
+D IC REG LDO NEG ADJ 1A DDPAK
+K IC REG LDO NEG ADJ 1A DDPAK
+F http://www.ti.com/lit/ds/symlink/lm2991.pdf
+$ENDCMP
+#
+$CMP LM317DCYR
+D IC REG LDO ADJ 1.5A SOT223
+K IC REG LDO ADJ 1.5A SOT223
+F http://www.ti.com/lit/ds/symlink/lm317.pdf
+$ENDCMP
+#
+$CMP LM337IMPX/NOPB
+D IC REG LDO NEG ADJ 1A SOT223
+K IC REG LDO NEG ADJ 1A SOT223
+F http://www.ti.com/lit/ds/symlink/lm137.pdf
+$ENDCMP
+#
+$CMP LM337KVURG3
+D IC REG LDO NEG ADJ 1.5A TO252
+K IC REG LDO NEG ADJ 1.5A TO252
+F http://www.ti.com/lit/ds/symlink/lm237.pdf
+$ENDCMP
+#
 $CMP LM4674SQ/NOPB
 D IC AMP AUDIO PWR 2.5W STER 16QFN	
 K IC AMP AUDIO PWR 2.5W STER 16QFN
@@ -24,10 +48,22 @@ K LM4950 Stereo Power Aplifier 3.1W
 F http://www.ti.com/lit/ds/symlink/lm4950.pdf
 $ENDCMP
 #
+$CMP LMR62421XSD/NOPB
+D IC REG BST SEPIC ADJ 2.1A 6WSON
+K IC REG BST SEPIC ADJ 2.1A 6WSON
+F http://www.ti.com/lit/ds/symlink/lmr62421.pdf
+$ENDCMP
+#
 $CMP TL072CPWR
 D IC OPAMP JFET 3MHZ 8TSSOP
 K IC OPAMP JFET 3MHZ 8TSSOP
 F http://www.ti.com/lit/ds/symlink/tl072.pdf
+$ENDCMP
+#
+$CMP TPS55010RTER
+D IC REG FLYBCK INV ISO ADJ 16WQFN
+K IC REG FLYBCK INV ISO ADJ 16WQFN
+F http://www.ti.com/lit/ds/symlink/tps55010.pdf
 $ENDCMP
 #
 #End Doc Library

@@ -12,6 +12,12 @@ K CAP ALUM 3.3UF 20% 25V SMD
 F http://industrial.panasonic.com/lecs/www-data/pdf/ABA0000/ABA0000CE2.pdf
 $ENDCMP
 #
+$CMP EEE1HA010NR
+D CAP ALUM 1UF 20% 50V SMD
+K CAP ALUM 1UF 20% 50V SMD
+F http://industrial.panasonic.com/lecs/www-data/pdf/ABA0000/ABA0000CE2.pdf
+$ENDCMP
+#
 $CMP MN3102
 D CMOS Clock Generator/Driver for Low Voltage Operation BBD
 K BBD Clock Generator

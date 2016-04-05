@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MUSES8820E
+D IC OPAMP AUDIO 11MHZ 8EMP
+K IC OPAMP AUDIO 11MHZ 8EMP
+F http://www.njr.com/semicon/PDF/MUSES8820_E.pdf
+$ENDCMP
+#
 $CMP NJM4558D
 D Dual Op amp (low power)
 K ampliop
@@ -54,10 +60,16 @@ K regulator
 F http://semicon.njr.co.jp/eng/PDF/NJM79M00_E.pdf
 $ENDCMP
 #
+$CMP NJM8080G
+D IC OPAMP AUDIO 8SOP
+K IC OPAMP AUDIO 8SOP
+F http://www.njr.com/semicon/PDF/NJM8080_E.pdf
+$ENDCMP
+#
 $CMP NJW1194V
 D 2-Channel Electronic Volume With Input Selector And Tone Control
 K Audio Volume Input Selector Tone Control
-F http://www.njr.com/semicon/PDF/package/SSOP32_E.pdf
+F http://www.njr.com/semicon/PDF/NJW1194_E.pdf
 $ENDCMP
 #
 $CMP OPAMP

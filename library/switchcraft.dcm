@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NMJ4HCD2
+D Phone Connectors 2C MONO 2-SPST NC
+K Phone Connectors 2C MONO 2-SPST NC
+F http://www.neutrik.co.jp/jp/plugs-und-jacks-1/m-series/nmj4hcd2
+$ENDCMP
+#
+$CMP PJRAN2X1U01AUX
+D PHONO JACK 2POS R/A RED/WHT GOLD
+K PHONO JACK 2POS R/A RED/WHT GOLD
+F http://www.switchcraft.com/Drawings/pjran2x1u__x_series_cd.pdf
+$ENDCMP
+#
+$CMP PJRAN2X1U02AUX
+D PHONO JACK 2POS R/A WHT/RED GOLD
+K PHONO JACK 2POS R/A WHT/RED GOLD
+F http://www.switchcraft.com/Drawings/pjran2x1u__x_series_cd.pdf
+$ENDCMP
+#
+$CMP PJRAS2X1S01AUX
+D CONN JACK 2POS R/A PHONO GOLD
+K CONN JACK 2POS R/A PHONO GOLD
+F http://www.switchcraft.com/Drawings/pjras2x1s__x_series_cd.pdf
+$ENDCMP
+#
+#End Doc Library

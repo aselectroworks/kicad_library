@@ -4,6 +4,48 @@ $CMP CP1_Small
 D Polarised capacitor
 $ENDCMP
 #
+$CMP KZ
+D nichicon KZ series
+K CAP ALUM xxUF xxV xx% RADIAL
+F http://www.nichicon.co.jp/products/pdfs/kz.pdf
+$ENDCMP
+#
+$CMP UKZ1H101MHM
+D CAP ALUM 100UF 20% 50V RADIAL
+K CAP ALUM 100UF 20% 50V RADIAL
+F http://www.nichicon.co.jp/products/pdfs/kz.pdf
+$ENDCMP
+#
+$CMP UKZ1H221MHM
+D CAP ALUM 220UF 20% 50V RADIAL
+K CAP ALUM 220UF 20% 50V RADIAL
+F http://www.nichicon.co.jp/products/pdfs/kz.pdf
+$ENDCMP
+#
+$CMP UKZ1H470MPM
+D CAP ALUM 47UF 20% 50V RADIAL
+K CAP ALUM 47UF 20% 50V RADIAL
+F http://www.nichicon.co.jp/products/pdfs/kz.pdf
+$ENDCMP
+#
+$CMP UKZ2A100MPM
+D CAP ALUM 10UF 20% 100V RADIAL
+K CAP ALUM 10UF 20% 100V RADIAL
+F http://www.nichicon.co.jp/products/pdfs/kz.pdf
+$ENDCMP
+#
+$CMP UWJ
+D nichicon WJ series
+K CAP ALUM xxUF xxV xx% SMD
+F http://nichicon-us.com/english/products/pdfs/e-wj.pdf
+$ENDCMP
+#
+$CMP UWJ1C100MCL1GB
+D CAP ALUM 10UF 20% 16V SMD
+K CAP ALUM 10UF 20% 16V SMD
+F http://nichicon-us.com/english/products/pdfs/e-wj.pdf
+$ENDCMP
+#
 $CMP UWT
 D nichicon WT series
 K CAP ALUM xxUF xxV xx% SMD

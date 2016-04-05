@@ -6,6 +6,12 @@ K High frequency switch
 F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/switching/1ss355.pdf
 $ENDCMP
 #
+$CMP BA7807FP-E2
+D IC REG LDO 7V 1A TO252-3
+K IC REG LDO 7V 1A TO252-3
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba78_series-e.pdf
+$ENDCMP
+#
 $CMP BD49K23G-TL
 D IC DETECTOR VOLT 2.3V CMOS SSOP3
 K IC DETECTOR VOLT 2.3V CMOS SSOP3

@@ -1,6 +1,24 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CY8C5267LTI-LP089
+D Programmable System-on-Chip (PSoC®)
+K PSoC5LP CY8C5267LTI-LP089
+F http://www.cypress.com/?docID=49440
+$ENDCMP
+#
+$CMP CY8C5287AXI-LP095
+D IC PSOC 32B 256KB FLASH 100TQFP
+K IC PSOC 32B 256KB FLASH 100TQFP
+F http://www.cypress.com/?docID=49440
+$ENDCMP
+#
 $CMP CY8C52LP
+D Programmable System-on-Chip (PSoC®)
+K PSoC5LP CY8C52LP
+F http://www.cypress.com/?docID=49440
+$ENDCMP
+#
+$CMP CY8C52xxAXI
 D Programmable System-on-Chip (PSoC®)
 K PSoC5LP CY8C52LP
 F http://www.cypress.com/?docID=49440
