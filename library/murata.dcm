@@ -48,6 +48,12 @@ K CAP CER 2.2UF 16V X5R 0402
 F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
 $ENDCMP
 #
+$CMP GRM155R61H222KA01D
+D CAP CER 2200PF 50V X5R 0402
+K CAP CER 2200PF 50V X5R 0402
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
+$ENDCMP
+#
 $CMP GRM18
 D Murata GRM18 Series
 K CAP CER 0603 1608Metric
@@ -150,9 +156,27 @@ K CAP CER 0.047UF 50V 5% NP0 1206
 F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
 $ENDCMP
 #
+$CMP GRM32
+D Murata GRM32 Series
+K CAP CER 1210 3225Metric
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
+$ENDCMP
+#
+$CMP GRM32ER61A107ME20L
+D CAP CER 100UF 10V X5R 1210
+K CAP CER 100UF 10V X5R 1210
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
+$ENDCMP
+#
 $CMP LQM2HPN2R2MG0L
 D FIXED IND 2.2UH 1.3A 80 MOHM SMD
 K FIXED IND 2.2UH 1.3A 80 MOHM SMD
+F http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0075S0104LQM2HP_G0.pdf
+$ENDCMP
+#
+$CMP LQM2HPN4R7MG0L
+D FIXED IND 4.7UH 1.1A 110 MOHM
+K FIXED IND 4.7UH 1.1A 110 MOHM
 F http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0075S0104LQM2HP_G0.pdf
 $ENDCMP
 #

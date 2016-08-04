@@ -48,6 +48,12 @@ K LM4950 Stereo Power Aplifier 3.1W
 F http://www.ti.com/lit/ds/symlink/lm4950.pdf
 $ENDCMP
 #
+$CMP LMR62421XMF/NOPB
+D IC REG BST SEPIC ADJ 2.1A SOT23
+K IC REG BST SEPIC ADJ 2.1A SOT23
+F http://www.ti.com/lit/ds/symlink/lmr62421.pdf
+$ENDCMP
+#
 $CMP LMR62421XSD/NOPB
 D IC REG BST SEPIC ADJ 2.1A 6WSON
 K IC REG BST SEPIC ADJ 2.1A 6WSON
