@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KC2016K
+D OSC XO xxMHZ CMOS SMD
+K OSC XO xxMHZ CMOS SMD
+F https://global.kyocera.com/prdct/electro/product/pdf/clock_k_e.pdf
+$ENDCMP
+#
+$CMP KC2016K13.5600C1GE00
+D OSC XO 13.5600MHZ CMOS SMD
+K OSC XO 13.5600MHZ CMOS SMD
+F https://global.kyocera.com/prdct/electro/product/pdf/clock_k_e.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -114,4 +114,16 @@ K MELF Resistors 0.2W 750ohms 1% 0102 MELF 150V 50ppm
 F http://www.vishay.com/docs/28713/melfprof.pdf
 $ENDCMP
 #
+$CMP RC1206
+D WSL1206
+K RES xxx OHM 1% 1/4W 1206
+F http://www.vishay.com/docs/30100/wsl.pdf
+$ENDCMP
+#
+$CMP WSL1206R0400FEA
+D RES 0.04 OHM 1% 1/2W 1206
+K RES 0.04 OHM 1% 1/2W 1206
+F http://www.vishay.com/docs/30100/wsl.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -2,7 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP NRG4026
 D NRG4026
-K FIXED IND XXUH XXXA XX MOHM SMD	
+K FIXED IND XXUH XXXA XX MOHM SMD
 F http://media.digikey.com/pdf/Data%20Sheets/Taiyo%20Yuden%20PDFs%20URL%20links/NR_NRG%20SMD%20Inductors.pdf
 $ENDCMP
 #
@@ -10,6 +10,18 @@ $CMP NRG4026T100M
 D FIXED IND 10UH 1.3A 85 MOHM SMD
 K FIXED IND 10UH 1.3A 85 MOHM SMD
 F http://media.digikey.com/pdf/Data%20Sheets/Taiyo%20Yuden%20PDFs%20URL%20links/NR_NRG%20SMD%20Inductors.pdf
+$ENDCMP
+#
+$CMP NRS5020
+D NRG5020
+K FIXED IND XXUH XXXA XX MOHM SMD
+F https://www.yuden.co.jp/productdata/catalog/wound04_e.pdf
+$ENDCMP
+#
+$CMP NRS5020T4R7MMGJ
+D FIXED IND 4.7UH 2A 72 MOHM SMD
+K FIXED IND 4.7UH 2A 72 MOHM SMD
+F https://www.yuden.co.jp/productdata/catalog/wound04_e.pdf
 $ENDCMP
 #
 #End Doc Library

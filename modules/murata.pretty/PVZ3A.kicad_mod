@@ -1,9 +1,9 @@
-(module PVZ3A (layer F.Cu) (tedit 57A04151)
+(module PVZ3A (layer F.Cu) (tedit 5B0907D7)
   (attr smd)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value PVZ3A (at 0 -0.5) (layer F.Fab)
+  (fp_text value PVZ3A (at 0 -0.5) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.15 1.55) (end 0.15 1.55) (layer F.SilkS) (width 0.1))

@@ -18,7 +18,7 @@ K CONN HEADER EH TOP 2POS 2.5MM
 F http://www.jst-mfg.com/product/pdf/eng/eEH.pdf
 $ENDCMP
 #
-$CMP B2B-PH-SM4-TB
+$CMP B2B-PH-SM4-TB(LF)(SN)
 D CONN HEADER PH TOP 2POS 2MM SMD
 K CONN HEADER PH TOP 2POS 2MM SMD
 F http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
@@ -30,13 +30,13 @@ K CONN HEADER EH TOP 3POS 2.5MM
 F http://www.jst-mfg.com/product/pdf/eng/eEH.pdf
 $ENDCMP
 #
-$CMP B3B-PH-SM4-TB
+$CMP B3B-PH-SM4-TB(LF)(SN)
 D CONN HEADER PH TOP 3POS 2MM SMD
 K CONN HEADER PH TOP 3POS 2MM SMD
 F http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
 $ENDCMP
 #
-$CMP B5B-PH-SM4-TB
+$CMP B5B-PH-SM4-TB(LF)(SN)
 D CONN HEADER PH TOP 5POS 2MM SMD
 K CONN HEADER PH TOP 5POS 2MM SMD
 F http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
@@ -54,49 +54,49 @@ K CONN HEADER EH TOP 9POS 2.5MM
 F http://www.jst-mfg.com/product/pdf/jpn/EH.pdf
 $ENDCMP
 #
-$CMP BM02B-SRSS-TB
+$CMP BM02B-SRSS-TB(LF)(SN)
 D CONN HEADER SH 2POS TOP 1MM TIN
 K CONN HEADER SH 2POS TOP 1MM TIN
 F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
 $ENDCMP
 #
-$CMP BM03B-SRSS-TB
+$CMP BM03B-SRSS-TB(LF)(SN)
 D CONN HEADER SH 3POS TOP 1MM TIN
 K CONN HEADER SH 3POS TOP 1MM TIN
 F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
 $ENDCMP
 #
-$CMP BM04B-SRSS-TB
+$CMP BM04B-SRSS-TB(LF)(SN)
 D CONN HEADER SH 4POS TOP 1MM TIN
 K CONN HEADER SH 4POS TOP 1MM TIN
 F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
 $ENDCMP
 #
-$CMP BM05B-SRSS-TB
+$CMP BM05B-SRSS-TB(LF)(SN)
 D CONN HEADER SH 5POS TOP 1MM TIN
 K CONN HEADER SH 5POS TOP 1MM TIN
 F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
 $ENDCMP
 #
-$CMP BM07B-SRSS-TB
+$CMP BM07B-SRSS-TB(LF)(SN)
 D CONN HEADER SH 7POS TOP 1MM TIN
 K CONN HEADER SH 7POS TOP 1MM TIN
 F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
 $ENDCMP
 #
-$CMP BM10B-SRSS-TB
+$CMP BM10B-SRSS-TB(LF)(SN)
 D CONN HEADER SH 10POS TOP 1MM TIN
 K CONN HEADER SH 10POS TOP 1MM TIN
 F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
 $ENDCMP
 #
-$CMP BM11B-SRSS-TB
+$CMP BM11B-SRSS-TB(LF)(SN)
 D CONN HEADER SH 11POS TOP 1MM TIN
 K CONN HEADER SH 11POS TOP 1MM TIN
 F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
 $ENDCMP
 #
-$CMP BM15B-SRSS-TB
+$CMP BM15B-SRSS-TB(LF)(SN)
 D CONN HEADER SH 15POS TOP 1MM TIN
 K CONN HEADER SH 15POS TOP 1MM TIN
 F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
@@ -106,6 +106,24 @@ $CMP S11B-XH-A-1
 D CONN BASE JQ 11POS TOP 2.5MM TIN
 K CONN BASE JQ 11POS TOP 2.5MM TIN
 F http://www.jst-mfg.com/product/pdf/jpn/JQ.pdf
+$ENDCMP
+#
+$CMP S2B-PH-SM4-TB(LF)(SN)
+D CONN HEADER PH SIDE 2POS 2MM SMD
+K CONN HEADER PH SIDE 2POS 2MM SMD
+F http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+$ENDCMP
+#
+$CMP SM05B-SRSS-TB(LF)(SN)
+D CONN HEADER SH 5POS SIDE 1MM TIN
+K CONN HEADER SH 5POS SIDE 1MM TIN
+F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
+$CMP SM10B-SRSS-TB(LF)(SN)
+D CONN HEADER SH 10POS TOP 1MM TIN
+K CONN HEADER SH 10POS TOP 1MM TIN
+F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
 $ENDCMP
 #
 #End Doc Library

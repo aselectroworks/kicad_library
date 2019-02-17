@@ -4,6 +4,8 @@
 !*.dcm
 !*.lib
 !*.kicad_mod
+!*.step
+!*.stp
 !*.wings
 !*.wrl
 !.gitignore

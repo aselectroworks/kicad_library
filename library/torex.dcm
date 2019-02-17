@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XCL101C331ER-G
+D DC DC CONVERTER 3.3V
+K DC DC CONVERTER 3.3V
+F https://www.torex.co.jp/file/xcl101/XCL101-j.pdf
+$ENDCMP
+#
+#End Doc Library

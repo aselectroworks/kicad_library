@@ -6,4 +6,10 @@ K Switched-Capacitor
 F http://www.linear.com/docs/1043
 $ENDCMP
 #
+$CMP LTC6268IS6#TRMPBF
+D IC OPAMP 500MHZ SGL FET TSOT23-6
+K IC OPAMP 500MHZ SGL FET TSOT23-6
+F http://www.linear.com/docs/45543
+$ENDCMP
+#
 #End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT54J,115
+D DIODE SCHOTTKY 30V 200MA SOD323F
+K DIODE SCHOTTKY 30V 200MA SOD323F
+F https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf
+$ENDCMP
+#
+#End Doc Library

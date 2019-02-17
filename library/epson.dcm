@@ -1,15 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP TSX-3225
-D CRYSTAL
-K Crystal SMD
-F http://www.epsondevice.com/docs/qd/ja/DownloadServlet?id=ID000798
+$CMP SG-210STF
+D OSC XO xxxHZ CMOS SMD
+K OSC XO xxxHZ CMOS SMD
+F https://support.epson.biz/td/api/doc_check.php?dl=brief_SG-210STF_en.pdf
 $ENDCMP
 #
-$CMP TSX-3225_16.0000MF18X-AC3
-D CRYSTAL 16MHz
-K Crystal SMD 16MHz
-F http://www.epsondevice.com/docs/qd/ja/DownloadServlet?id=ID000798
+$CMP SG-210STF_6.7800ML
+D OSC XO 6.78MHZ CMOS SMD
+K OSC XO 6.78MHZ CMOS SMD
+F https://support.epson.biz/td/api/doc_check.php?dl=brief_SG-210STF_en.pdf
 $ENDCMP
 #
 #End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CUS-12TB
+D SWITCH SLIDE SPDT 300MA 4V
+K SWITCH SLIDE SPDT 300MA 4V
+F https://www.nidec-copal-electronics.com/e/catalog/switch/cus.pdf
+$ENDCMP
+#
+$CMP CUS-13TB
+D SWITCH SLIDE SP3T 300MA 4V
+K SWITCH SLIDE SP3T 300MA 4V
+F https://www.nidec-copal-electronics.com/e/catalog/switch/cus.pdf
+$ENDCMP
+#
+#End Doc Library

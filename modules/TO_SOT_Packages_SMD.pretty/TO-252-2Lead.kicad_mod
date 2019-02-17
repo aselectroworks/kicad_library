@@ -1,11 +1,11 @@
-(module TO-252-2Lead (layer F.Cu) (tedit 570B6973)
+(module TO-252-2Lead (layer F.Cu) (tedit 5B0906A7)
   (descr "DPAK / TO-252 2-lead smd package")
   (tags "dpak TO-252")
   (attr smd)
   (fp_text reference REF** (at 0 -6.024) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value TO-252-2Lead (at 0 1.977) (layer F.Fab)
+  (fp_text value TO-252-2Lead (at 0 1.977) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0 -0.5) (end 0 0.5) (layer F.Fab) (width 0.1))

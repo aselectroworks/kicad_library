@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CON-SMA-EDGE-S
+D CONN SMA JACK STR EDGE MNT
+K CONN SMA JACK STR EDGE MNT
+F https://media.digikey.com/pdf/Data%20Sheets/RF%20Solutions%20PDFs/CON-SMA-EDGE.pdf
+$ENDCMP
+#
+#End Doc Library

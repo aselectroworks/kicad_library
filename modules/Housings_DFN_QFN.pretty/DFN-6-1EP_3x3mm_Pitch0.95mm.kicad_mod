@@ -1,11 +1,11 @@
-(module DFN-6-1EP_3x3mm_Pitch0.95mm (layer F.Cu) (tedit 5706465B)
+(module DFN-6-1EP_3x3mm_Pitch0.95mm (layer F.Cu) (tedit 5B0908CF)
   (descr "DFN6 3*3 MM, 0.95 PITCH; CASE 506AH-01 (see ON Semiconductor 506AH.PDF)")
   (tags "DFN 0.95")
   (attr smd)
   (fp_text reference REF** (at 0 -2.575) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value DFN-6-1EP_3x3mm_Pitch0.95mm (at 0 2.575) (layer F.Fab)
+  (fp_text value DFN-6-1EP_3x3mm_Pitch0.95mm (at 0 2.575) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.9 -1.85) (end -1.9 1.85) (layer F.CrtYd) (width 0.05))

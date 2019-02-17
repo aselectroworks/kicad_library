@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PEL12T-4225S-S1024
+D ENCODER MECH ILL 12MM RE/GR/BU
+K ENCODER MECH ILL 12MM RE/GR/BU
+F http://www.bourns.com/docs/Product-Datasheets/PEL12T.pdf
+$ENDCMP
+#
+$CMP PTV111-3420A-B103
+D POT 10K OHM 1/20W CARBON LINEAR
+K POT 10K OHM 1/20W CARBON LINEAR
+F http://www.bourns.com/docs/Product-Datasheets/PTVPTT.pdf
+$ENDCMP
+#
+$CMP PTV111-4420A-B103
+D POT 10K OHM 1/20W CARBON LINEAR
+K POT 10K OHM 1/20W CARBON LINEAR
+F http://www.bourns.com/docs/Product-Datasheets/PTVPTT.pdf
+$ENDCMP
+#
+$CMP PTV111-4425A-B103
+D POT 10K OHM 1/20W CARBON LINEAR
+K POT 10K OHM 1/20W CARBON LINEAR
+F http://www.bourns.com/docs/Product-Datasheets/PTVPTT.pdf
+$ENDCMP
+#
+$CMP PTV112-3412A-A203
+D POT 20K OHM 1/20W CARBON LOG
+K POT 20K OHM 1/20W CARBON LOG
+F http://www.bourns.com/docs/Product-Datasheets/PTVPTT.pdf
+$ENDCMP
+#
+$CMP PTV112-4420A-A103
+D POT 10K OHM 1/20W CARBON LOG
+K POT 10K OHM 1/20W CARBON LOG
+F http://www.bourns.com/docs/Product-Datasheets/PTVPTT.pdf
+$ENDCMP
+#
+#End Doc Library
