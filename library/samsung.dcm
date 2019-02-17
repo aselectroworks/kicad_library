@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CL31A
+D CL31A
+K CAP CER xxF xxV X5R 1206
+$ENDCMP
+#
+$CMP CL31A106KBHNNNE
+D CAP CER 10UF 50V X5R 1206
+K CAP CER 10UF 50V X5R 1206
+F http://www.samsungsem.com/kr/support/product-search/mlcc/CL31A106KBHNNNE.jsp
+$ENDCMP
+#
+#End Doc Library

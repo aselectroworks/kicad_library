@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JHD162A
+D 1602 Character LCD Module Display Screen LCM FSTN Postive with White LED Backlight
+K LCD 16x2 White Backlight
+F https://www.aliexpress.com/item/5PCS-Lot-161-16X1-1601-Character-LCD-Module-Display-Screen-LCM-with-Yellow-Green-Backlight/1673229050.html
+$ENDCMP
+#
+#End Doc Library

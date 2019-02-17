@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GF063
+D trimmer potentiometer GF063 Series
+K trimmer potentiometer GF063 Series
+F http://www.tocos-j.co.jp/jp/catalog/pdf/GF063_Series.pdf
+$ENDCMP
+#
+$CMP GF063PB103
+D trimmer potentiometer 10KB Top Adjustment
+K trimmer potentiometer 10KB Top Adjustment
+F http://www.tocos-j.co.jp/jp/catalog/pdf/GF063_Series.pdf
+$ENDCMP
+#
+$CMP GF063SB103
+D trimmer potentiometer 10KB Side Adjustment
+K trimmer potentiometer 10KB Side Adjustment
+F http://www.tocos-j.co.jp/jp/catalog/pdf/GF063_Series.pdf
+$ENDCMP
+#
+$CMP TWE-001L-IP
+D TWE-LITE Zigbee module
+K TWE-LITE Zigbee
+F http://mono-wireless.com/jp/products/TWE-Lite/MNO-PDS-TWE001L-JP-2.10-2.pdf
+$ENDCMP
+#
+#End Doc Library

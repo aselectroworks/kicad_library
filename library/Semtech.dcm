@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS30042-M000QFNR
+D IC REG BUCK ADJ 2A SYNC 16-VQFN
+K IC REG BUCK ADJ 2A SYNC 16-VQFN
+F https://www.semtech.com/uploads/documents/ts3004x.pdf
+$ENDCMP
+#
+$CMP TS30042-M050QFNR
+D IC REG BUCK 5V 2A SYNC 16-VQFN
+K IC REG BUCK 5V 2A SYNC 16-VQFN
+F https://www.semtech.com/uploads/documents/ts3004x.pdf
+$ENDCMP
+#
+#End Doc Library

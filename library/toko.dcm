@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1239AS-H-100M=P2
+D FIXED IND 10UH 1A 460 MOHM SMD
+K FIXED IND 10UH 1A 460 MOHM SMD
+F http://www.murata.com/~/media/webrenewal/products/inductor/chip/tokoproducts/wirewoundmetalalloychiptype/m_dfe252012c.ashx
+$ENDCMP
+#
+$CMP 1239AS-H-2R2M=P2
+D FIXED IND 2.2UH 2.2A 108 MOHM
+K FIXED IND 2.2UH 2.2A 108 MOHM
+F http://www.toko.co.jp/products/pdf/inductors/dfe252012c.pdf
+$ENDCMP
+#
+#End Doc Library

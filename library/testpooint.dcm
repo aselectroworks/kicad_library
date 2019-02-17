@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RC0603FR-070RL
+D RES SMD 0 OHM JUMPER 1/10W 0603
+K RES SMD 0 OHM JUMPER 1/10W 0603
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP SHORT_JUMPER
+D RES SMD 0 OHM JUMPER 1/10W 0603
+K RES SMD 0 OHM JUMPER 1/10W 0603
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP TEST-1
+D TEST POINT For Clip
+K TEST POINT For Clip
+F http://akizukidenshi.com/download/ds/kangyang/TEST-1H.PDF
+$ENDCMP
+#
+$CMP TP1.0
+D TEST POINT 1mm
+K TEST POINT 1mm
+$ENDCMP
+#
+#End Doc Library

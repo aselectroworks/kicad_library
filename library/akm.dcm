@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AK4490EQ
+D "VERITA" AK4490EQ 120dB 768kHz/32-bit 2ch Premium DAC
+K IC DAC 32BIT AUDIO 48LQFP
+F http://www.akm.com/akm/jp/file/datasheet/AK4490EQ.pdf
+$ENDCMP
+#
+#End Doc Library

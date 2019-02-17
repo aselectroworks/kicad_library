@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP THAF01-AB-R
+D SWITCH TACTILE xxxx SPST-NO 0.05A 24V
+K tactile switch
+F http://jian-fu.com/product.asp?id=752
+$ENDCMP
+#
+$CMP TVCM16-015
+D SWITCH TACTILE xxxx SPST-NO 0.05A 24V
+K tactile switch
+F http://en.jian-fu.com/product-73.html
+$ENDCMP
+#
+#End Doc Library

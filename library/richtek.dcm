@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RT6150AGQW
+D IC REG BUCK BST ADJ 0.8A 10WDFN
+K IC REG BUCK BST ADJ 0.8A 10WDFN
+F http://www.richtek.com/assets/product_file/RT6150A=RT6150B/DS6150AB-04.pdf
+$ENDCMP
+#
+#End Doc Library

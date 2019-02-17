@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP73871
+D USB/AC BATTERY CHARGER
+K USB/AC BATTERY CHARGER
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20002090D.pdf
+$ENDCMP
+#
+$CMP MCP73871T-1CCI_ML
+D USB/AC BATTERY CHARGER 4.1V 6H Timer 3.1V LBO
+K USB/AC BATTERY CHARGER
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20002090D.pdf
+$ENDCMP
+#
+$CMP MIC5504-3.3YM5-TR
+D IC REG LDO 3.3V 0.3A SOT-23-5
+K IC REG LDO 3.3V 0.3A SOT-23-5
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en580292
+$ENDCMP
+#
+$CMP PAC1720-1-AIA-TR
+D IC CURRENT SENSE MON DUAL 10VDFN
+K IC CURRENT SENSE MON DUAL 10VDFN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005386B.pdf
+$ENDCMP
+#
+#End Doc Library

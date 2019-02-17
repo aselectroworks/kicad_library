@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AOZ1280CI
+D IC REG BUCK ADJ 1.2A SOT23-6
+K IC REG BUCK ADJ 1.2A SOT23-6
+F http://aosmd.com/res/data_sheets/AOZ1280CI.pdf
+$ENDCMP
+#
+#End Doc Library

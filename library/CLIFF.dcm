@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FC71101
+D 3PDT Switch Wire Soldering
+K switch 3pdt
+F http://www.cliffuk.co.uk/products/switches/SingleSwitches.pdf
+$ENDCMP
+#
+#End Doc Library

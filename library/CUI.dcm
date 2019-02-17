@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SJ1-3515N
+D CONN JACK STEREO R/A 5PIN 3.5MM
+K CONN JACK STEREO R/A 5PIN 3.5MM
+F http://www.cui.com/product/resource/sj1-351xn-series.pdf
+$ENDCMP
+#
+#End Doc Library

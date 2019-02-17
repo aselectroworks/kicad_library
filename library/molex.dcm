@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0512811094
+D CONN FFC FPC 10POS 0.50MM R/A
+K CONN FFC FPC 10POS 0.50MM R/A
+F http://www.molex.com/pdm_docs/sd/512810694_sd.pdf
+$ENDCMP
+#
+$CMP 0512811294
+D CONN FFC FPC 12POS 0.50MM R/A
+K CONN FFC FPC 12POS 0.50MM R/A
+F http://www.molex.com/pdm_docs/sd/512810694_sd.pdf
+$ENDCMP
+#
+$CMP 0781191108
+D CONN FFC VERT 10POS 0.50MM SMD
+K CONN FFC VERT 10POS 0.50MM SMD
+F http://www.molex.com/pdm_docs/sd/781191108_sd.pdf
+$ENDCMP
+#
+$CMP 0781271128
+D CONN FFC VERT 12POS 0.50MM SMD
+K CONN FFC VERT 12POS 0.50MM SMD
+F http://www.molex.com/pdm_docs/sd/781271128_sd.pdf
+$ENDCMP
+#
+$CMP 670688000
+D CONN USB RT ANG RECPT TYPE B BLK
+K CONN USB RT ANG RECPT TYPE B BLK
+F http://www.molex.com/pdm_docs/sd/670688000_sd.pdf
+$ENDCMP
+#
+#End Doc Library

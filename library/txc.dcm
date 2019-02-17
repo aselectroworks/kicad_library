@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7V
+D CRYSTAL
+K Crystal SMD
+F http://www.txccrystal.com/images/pdf/7v.pdf
+$ENDCMP
+#
+$CMP 7V-12.000MAAE-T
+D CRYSTAL 12.0000MHZ 12PF SMD
+K CRYSTAL 12.0000MHZ 12PF SMD
+F http://www.txccrystal.com/images/pdf/7v.pdf
+$ENDCMP
+#
+$CMP 7V-16.000MAAE-T
+D CRYSTAL 16.0000MHZ 12PF SMD
+K CRYSTAL 16.0000MHZ 12PF SMD
+F http://www.txccrystal.com/images/pdf/7v.pdf
+$ENDCMP
+#
+$CMP 7V-16.000MAAV-T
+D CRYSTAL 16.0000MHZ 8PF SMD
+K CRYSTAL 16.0000MHZ 8PF SMD
+F http://www.txccrystal.com/images/pdf/7v.pdf
+$ENDCMP
+#
+#End Doc Library

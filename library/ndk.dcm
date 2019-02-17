@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NX2016SA
+D CRYSTAL xxxMHZ xxPF SMD
+K CRYSTAL 27.12MHZ 6PF SMD
+F http://www.ndk.com/images/products/catalog/c_NX2016SA_j.pdf
+$ENDCMP
+#
+$CMP NX2016SA-27.12MHZ-EXS00A-CS11337
+D CRYSTAL 27.12MHZ 6PF SMD
+K CRYSTAL 27.12MHZ 6PF SMD
+F https://media.digikey.com/pdf/Data%20Sheets/NDK%20PDFs/NX2016SA-27.12MHz-EXS00A-CS11337.pdf
+$ENDCMP
+#
+#End Doc Library

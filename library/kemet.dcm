@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EC2-3NU
+D RELAY GEN PURPOSE DPDT 2A 3V
+K RELAY GEN PURPOSE DPDT 2A 3V
+F http://www.kemet.com/docfinder?Partnumber=EC2-3NU
+$ENDCMP
+#
+#End Doc Library

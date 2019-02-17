@@ -1,4 +1,40 @@
-EESchema-DOCLIB  Version 2.0  Date: 2013/11/17 17:05:03
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AGQ21TS03X
+D RELAY TELECOM DPDT 2A 3V
+K RELAY TELECOM DPDT 2A 3V
+F https://www3.panasonic.biz/ac/e_download/control/relay/signal/catalog/mech_eng_tq.pdf
+$ENDCMP
+#
+$CMP EEE-Bipolar
+D Panasonic Surface Mount Type, Series: S, Type: V
+K CAP ALUM xxUF xxV xx% SMD
+F http://industrial.panasonic.com/lecs/www-data/pdf/ABA0000/ABA0000CE2.pdf
+$ENDCMP
+#
+$CMP EEE-FK-V
+D Panasonic Surface Mount Type, Series: FK, Type: V
+K CAP ALUM xxUF xxV xx% SMD
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf
+$ENDCMP
+#
+$CMP EEE1EA3R3NR
+D CAP ALUM 3.3UF 20% 25V SMD
+K CAP ALUM 3.3UF 20% 25V SMD
+F http://industrial.panasonic.com/lecs/www-data/pdf/ABA0000/ABA0000CE2.pdf
+$ENDCMP
+#
+$CMP EEE1HA010NR
+D CAP ALUM 1UF 20% 50V SMD
+K CAP ALUM 1UF 20% 50V SMD
+F http://industrial.panasonic.com/lecs/www-data/pdf/ABA0000/ABA0000CE2.pdf
+$ENDCMP
+#
+$CMP EEEFK1J100P
+D CAP ALUM 10UF 20% 63V SMD
+K CAP ALUM 10UF 20% 63V SMD
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf
+$ENDCMP
 #
 $CMP MN3102
 D CMOS Clock Generator/Driver for Low Voltage Operation BBD
@@ -10,6 +46,24 @@ $CMP MN3205
 D 4096-Stage Low Voltage Operation Low Noise BBD
 K BBD
 F F:/Dropbox/dev/datasheet/Panasonic/MN3205.pdf
+$ENDCMP
+#
+$CMP TQ2SA-L-3V
+D RELAY TELECOM DPDT 2A 3V
+K RELAY TELECOM DPDT 2A 3V
+F https://www3.panasonic.biz/ac/e_download/control/relay/signal/catalog/mech_eng_tq.pdf
+$ENDCMP
+#
+$CMP TQ2SA-L2-3V-Z
+D RELAY TELECOM DPDT 2A 3V
+K RELAY TELECOM DPDT 2A 3V
+F https://www3.panasonic.biz/ac/e_download/control/relay/signal/catalog/mech_eng_tq.pdf
+$ENDCMP
+#
+$CMP TQ2SL-L2-3V-Z
+D RELAY TELECOM DPDT 2A 3V
+K RELAY TELECOM DPDT 2A 3V
+F https://www3.panasonic.biz/ac/e_download/control/relay/signal/catalog/mech_eng_tq.pdf
 $ENDCMP
 #
 #End Doc Library

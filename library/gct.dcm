@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BG035-04A-1-0320-0180-0290-N-B
+D CON HEADER 4 PIN SMD
+K CON HEADER 4 PIN SMD
+F http://gct.co/pcb-board-to-board/pdf/BG035.pdf
+$ENDCMP
+#
+$CMP BG035-07X-1-0320-0180-0290-N-B
+D CON HEADER 7 PIN SMD
+K CON HEADER 7 PIN SMD
+F http://gct.co/pcb-board-to-board/pdf/BG035.pdf
+$ENDCMP
+#
+$CMP BG035-14X-1-0320-0180-0290-N-N
+D CON HEADER 14 PIN SMD
+K CON HEADER 14 PIN SMD
+F http://gct.co/pcb-board-to-board/pdf/BG035.pdf
+$ENDCMP
+#
+$CMP BG095-04-A-N-D
+D CON SOCKET 4 PIN THROUGHTHOLE
+K CON SOCKET 4 PIN THROUGHTHOLE
+F http://gct.co/pcb-board-to-board/pdf/BG095.pdf
+$ENDCMP
+#
+$CMP BG095-07-A-N-D
+D CON SOCKET 7 PIN THROUGHTHOLE
+K CON SOCKET 7 PIN THROUGHTHOLE
+F http://gct.co/PDFjs/web/viewer.html?file=/pcb-board-to-board/pdf/BG095.pdf
+$ENDCMP
+#
+$CMP BG095-08-A-N-D
+D CON SOCKET 8 PIN THROUGHTHOLE
+K CON SOCKET 8 PIN THROUGHTHOLE
+F http://gct.co/pcb-board-to-board/pdf/BG095.pdf
+$ENDCMP
+#
+$CMP BG095-14-A-N-D
+D CON SOCKET 14 PIN THROUGHTHOLE
+K CON SOCKET 14 PIN THROUGHTHOLE
+F http://gct.co/pcb-board-to-board/pdf/BG095.pdf
+$ENDCMP
+#
+#End Doc Library

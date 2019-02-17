@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BRD4104A
+D EFR32BG13 Blue Gecko Bluetooth® Low Energy +10 dBm Output Power Radio Board
+K EFR32BG13 Blue Gecko Bluetooth® Low Energy +10 dBm Output Power Radio Board
+F https://www.silabs.com/products/development-tools/wireless/bluetooth/slwrb4104a-wireless-radio-board
+$ENDCMP
+#
+#End Doc Library

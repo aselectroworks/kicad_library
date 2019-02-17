@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FSUSB42UMX
+D Low-Power, Two-Port, High-Speed, USB2.0(480Mbps) UART Switch
+K IC USB SWITCH DPDT 10UMLP
+F https://www.fairchildsemi.com/datasheets/FS/FSUSB42.pdf
+$ENDCMP
+#
+$CMP MMBF5457
+D JFET N-CH 25V 350MW SOT23
+K N-Channel JFET Transistor Low Voltage
+F http://www.fairchildsemi.com/datasheets/MM/MMBF5457.pdf
+$ENDCMP
+#
+$CMP S1G
+D DIODE GEN PURP 400V 1A SMA
+K DIODE GEN PURP 400V 1A SMA
+F http://www.fairchildsemi.com/datasheets/S1/S1A.pdf
+$ENDCMP
+#
+#End Doc Library

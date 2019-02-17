@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# CL31A
+#
+DEF CL31A R 0 0 N Y 1 F N
+F0 "R" -100 0 40 V V C CNN
+F1 "CL31A" 100 0 40 V V C CNN
+F2 "murata:GRM31" 0 -70 10 H I C CNN
+F3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL31A106KBHNNNE.jsp" 0 80 10 H I C CNN
+F4 "3216" 0 0 10 H V C CNN "Size"
+F5 "Samsung Electro-Mechanics" 200 300 50 H I C CNN "Manufacturer"
+F6 "CL31A" 300 400 50 H I C CNN "Manufacturer Part Number"
+ALIAS CL31A106KBHNNNE
+DRAW
+P 2 1 1 5 -40 -15 40 -15 N
+P 2 1 1 5 -40 15 40 15 N
+X ~ 1 0 50 35 D 40 40 1 1 P
+X ~ 2 0 -50 35 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

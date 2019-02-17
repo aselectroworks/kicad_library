@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CS2100-CP
+D IC CLK MULT FRACTIONAL N 10MSOP
+K IC CLK MULT FRACTIONAL N 10MSOP
+F http://www.cirrus.com/en/pubs/proDatasheet/CS2100-CP_F3.pdf
+$ENDCMP
+#
+#End Doc Library

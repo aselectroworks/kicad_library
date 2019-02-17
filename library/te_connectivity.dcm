@@ -1,7 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 5-1814832-1
+D CONN SMA JACK STR 50 OHM PCB
+K CONN SMA JACK STR 50 OHM PCB
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
 $CMP FSM4JSMA
-D SWITCH TACTILE SPST-NO 0.05A 24V	
+D SWITCH TACTILE SPST-NO 0.05A 24V
 K tactile switch
 F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2-1437565-7%7FV%7Fpdf%7FEnglish%7FENG_CD_2-1437565-7_V.pdf%7F4-1437565-1
 $ENDCMP

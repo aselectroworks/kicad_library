@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USB-N0485-0M02
+D USB Micro B connector
+K USB Micro B, USB
+F http://www.wfd-electronics.com/Upload/USB%E6%AF%8D%E5%A4%B4/%E5%9B%BE%E7%BA%B8/USBN04850M02-16383692151.pdf
+$ENDCMP
+#
+#End Doc Library

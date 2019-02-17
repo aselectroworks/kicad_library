@@ -1,0 +1,399 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RC0402
+D RC0402
+K RES SMD xxx OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-070RL
+D RES SMD 0.0OHM JUMPER 1/16W 0402
+K RES SMD 0.0OHM JUMPER 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07100KL
+D RES SMD 100K OHM 1% 1/16W 0402
+K RES SMD 100K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07100RL
+D RES SMD 100 OHM 1% 1/16W 0402
+K RES SMD 100 OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0710K2L
+D RES SMD 10.2K OHM 1% 1/16W 0402
+K RES SMD 10.2K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0710KL
+D RES SMD 10K OHM 1% 1/16W 0402
+K RES SMD 10K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07110KL
+D RES SMD 110K OHM 1% 1/16W 0402 1005Metric
+K RES SMD 110K OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0711KL
+D RES SMD 11K OHM 1% 1/16W 0402 1005Metric
+K RES SMD 11K OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0712KL
+D RES SMD 12K OHM 1% 1/16W 0402 1005Metric
+K RES SMD 12K OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0713K7L
+D RES SMD 13.7K OHM 1% 1/16W 0402 1005Metric
+K RES SMD 13.7K OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07160RL
+D RES SMD 160 OHM 1% 1/16W 0402 1005Metric
+K RES SMD 160 OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0716K5L
+D RES SMD 16.5K OHM 1% 1/16W 0402
+K RES SMD 16.5K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0718KL
+D RES SMD 18K OHM 5% 1/16W 0402
+K RES SMD 18K OHM 5% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-071K3L
+D RES SMD 1.3K OHM 1% 1/16W 0402
+K RES SMD 1.3K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-071K8L
+D RES SMD 1.8K OHM 1% 1/16W 0402
+K RES SMD 1.8K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-071KL
+D RES SMD 1K OHM 1% 1/16W 0402
+K RES SMD 1K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07200KL
+D RES SMD 200K OHM 1% 1/16W 0402 1005Metric
+K RES SMD 200K OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0720KL
+D RES SMD 20K OHM 1% 1/16W 0402 1005Metric
+K RES SMD 20K OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07220RL
+D RES SMD 220 OHM 1% 1/16W 0402
+K RES SMD 220 OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0722KL
+D RES SMD 22K OHM 1% 1/16W 0402
+K RES SMD 22K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07240KL
+D RES SMD 240K OHM 1% 1/16W 0402 1005Metric
+K RES SMD 240K OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-072K7L
+D RES SMD 2.7K OHM 1% 1/16W 0402 1005Metric
+K RES SMD 2.7K OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0730KL
+D RES SMD 30K OHM 1% 1/16W 0402 1005Metric
+K RES SMD 30K OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07390KL
+D RES SMD 390K OHM 1% 1/16W 0402
+K RES SMD 390K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-073K3L
+D RES SMD 3.3K OHM 1% 1/16W 0402
+K RES SMD 3.3K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-073KL
+D RES SMD 3K OHM 1% 1/16W 0402 1005Metric
+K RES SMD 3K OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07470KL
+D RES SMD 470K OHM 1% 1/16W 0402
+K RES SMD 470K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07475KL
+D RES SMD 475K OHM 1% 1/16W 0402
+K RES SMD 475K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0747KL
+D RES SMD 47K OHM 1% 1/16W 0402
+K RES SMD 47K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07487KL
+D RES SMD 487K OHM 1% 1/16W 0402
+K RES SMD 487K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07499KL
+D RES SMD 499K OHM 1% 1/16W 0402 1005Metric
+K RES SMD 499K OHM 1% 1/16W 0402 1005Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0749K9L
+D RES SMD 49.9K OHM 1% 1/16W 0402
+K RES SMD 49.9K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0752K3L
+D RES SMD 52.3K OHM 1% 1/16W 0402
+K RES SMD 52.3K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0753K6L
+D RES SMD 53.6K OHM 1% 1/16W 0402
+K RES SMD 53.6K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07680RL
+D RES SMD 680 OHM 1% 1/16W 0402
+K RES SMD 680 OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0768RL
+D RES SMD 68 OHM 1% 1/16W 0402
+K RES SMD 68 OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07750RL
+D RES SMD 750 OHM 1% 1/16W 0402
+K RES SMD 750 OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-077K15L
+D RES SMD 7.15K OHM 1% 1/16W 0402
+K RES SMD 7.15K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0786K6L
+D RES SMD 86.6K OHM 1% 1/16W 0402
+K RES SMD 86.6K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-079K1L
+D RES SMD 9.1K OHM 1% 1/16W 0402
+K RES SMD 9.1K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-079K53L
+D RES SMD 9.53K OHM 1% 1/16W 0402
+K RES SMD 9.53K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0402FR-079K76L
+D RES SMD 9.76K OHM 1% 1/16W 0402
+K RES SMD 9.76K OHM 1% 1/16W 0402
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603
+D RC0603
+K RES SMD xxx OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-070RL
+D RES SMD 0.0OHM JUMPER 1/10W 0603
+K RES SMD 0.0OHM JUMPER 1/10W 0603
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-07100KL
+D RES SMD 100K OHM 1% 1/10W 0603
+K RES SMD 100K OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0710KL
+D RES SMD 10K OHM 1% 1/10W 0603
+K RES SMD 10K OHM 1% 1/10W 0603
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0713K7L
+D RES SMD 13.7 OHM 1% 1/10W 0603 1608Metric
+K RES SMD 13.7 OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0715KL
+D RES SMD 15K OHM 1% 1/10W 0603 1608Metric
+K RES SMD 15K OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-07180KL
+D RES SMD 180K OHM 1% 1/10W 0603 1608Metric
+K RES SMD 180K OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-071KL
+D RES SMD 1K OHM 1% 1/10W 0603 1608Metric
+K RES SMD 1K OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-071ML
+D RES SMD 1M OHM 1% 1/10W 0603 1608Metric
+K RES SMD 1M OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0720KL
+D RES SMD 20K OHM 1% 1/10W 0603
+K RES SMD 20K OHM 1% 1/10W 0603
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0722KL
+D RES SMD 22K OHM 1% 1/10W 0603 1608Metric
+K RES SMD 22K OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-07240KL
+D RES SMD 240K OHM 1% 1/10W 0603 1608Metric
+K RES SMD 240K OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-07270KL
+D RES SMD 270K OHM 1% 1/10W 0603
+K RES SMD 270K OHM 1% 1/10W 0603
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-07330RL
+D RES SMD 330 OHM 1% 1/10W 0603
+K RES SMD 330 OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-07470KL
+D RES SMD 470K OHM 1% 1/10W 0603 1608Metric
+K RES SMD 470K OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0747KL
+D RES SMD 47K OHM 1% 1/10W 0603 1608Metric
+K RES SMD 47K OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603FR-075K6L
+D RES SMD 5.6K OHM 1% 1/10W 0603 1608Metric
+K RES SMD 5.6K OHM 1% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603JR-070RL
+D RES SMD 0.0OHM JUMPER 1/10W 0603
+K RES SMD 0.0OHM JUMPER 1/10W 0603
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0603JR-07220RL
+D RES SMD 220 OHM 5% 1/10W 0603
+K RES SMD 220 OHM 5% 1/10W 0603 1608Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC0805
+D RC0805
+K RES SMD xxx OHM 1% 1/8W 0805 2012Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC1206
+D RC1206
+K RES SMD xxx OHM 1% 1/4W 1206 3216Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC1206FR-0715KL
+D RES SMD 15K OHM 1% 1/16W 1206 3216Metric
+K RES SMD 15K OHM 1% 1/16W 1206 3216Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC1206FR-075K6L
+D RES SMD 5.6K OHM 1% 1/16W 1206 3216Metric
+K RES SMD 5.6K OHM 1% 1/16W 1206 3216Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+$CMP RC1206JR-070RL
+D RES SMD 0 OHM JUMPER 1/4W 1206
+K RES SMD 0 OHM JUMPER 1/4W 1206 3216Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
+#End Doc Library
