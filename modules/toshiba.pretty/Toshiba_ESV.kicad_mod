@@ -1,0 +1,8 @@
+(module Toshiba_ESV (layer F.Cu) (tedit 5C90F39B)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Toshiba_ESV (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

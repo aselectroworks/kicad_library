@@ -18,6 +18,12 @@ K FIXED IND 2.2UH 3A 84 MOHM SMD
 F http://bec.co.uk/downloads/dfe252012p.pdf
 $ENDCMP
 #
+$CMP DFE252012P-3R3M=P2
+D FIXED IND 3.3UH 2.3A 140 MOHM
+K FIXED IND 3.3UH 2.3A 140 MOHM
+F http://bec.co.uk/downloads/dfe252012p.pdf
+$ENDCMP
+#
 $CMP DFE252012P-4R7M=P2
 D FIXED IND 4.7UH 2A 200 MOHM SMD
 K FIXED IND 4.7UH 2A 200 MOHM SMD
@@ -28,6 +34,36 @@ $CMP DLW21SN900SQ2L
 D CHOKE COIL COMMON MODE 330MA SMD
 K CHOKE COIL COMMON MODE 330MA SMD
 F http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0114S0133DLW21S.pdf
+$ENDCMP
+#
+$CMP GCM15
+D Murata GRM15 Series
+K CAP CER 0402 1005Metric
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
+$ENDCMP
+#
+$CMP GCM1555C1H220JA16D
+D CAP CER 22PF 50V C0G/NP0 0402
+K CAP CER 22PF 50V C0G/NP0 0402
+F https://psearch.en.murata.com/capacitor/product/GCM1555C1H220JA16%23.pdf
+$ENDCMP
+#
+$CMP GCM1555C1H560JA16D
+D CAP CER 56PF 50V C0G/NP0 0402
+K CAP CER 56PF 50V C0G/NP0 0402
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
+$ENDCMP
+#
+$CMP GCM1555C1H680JA16D
+D CAP CER 68PF 50V C0G/NP0 0402
+K CAP CER 68PF 50V C0G/NP0 0402
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
+$ENDCMP
+#
+$CMP GCM155R71H104KE02D
+D CAP CER 0.1UF 50V X7R 0402
+K CAP CER 0.1UF 50V X7R 0402
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
 $ENDCMP
 #
 $CMP GCM21
@@ -114,6 +150,12 @@ K CAP CER 0.022UF 16V X7R 0402
 F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
 $ENDCMP
 #
+$CMP GRM155R71H223KA12D
+D CAP CER 0.022UF 50V X7R 0402
+K CAP CER 0.022UF 50V X7R 0402
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
+$ENDCMP
+#
 $CMP GRM18
 D Murata GRM18 Series
 K CAP CER 0603 1608Metric
@@ -192,6 +234,12 @@ K CAP CER 10UF 25V 20% X5R 0603
 F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
 $ENDCMP
 #
+$CMP GRM188R61H225KE11D
+D CAP CER 2.2UF 50V X5R 0603
+K CAP CER 2.2UF 50V X5R 0603
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
+$ENDCMP
+#
 $CMP GRM21
 D Murata GRM2 Series
 K CAP CER 0805 2012Metric
@@ -208,6 +256,12 @@ $CMP GRM21BR61C475KA88L
 D CAP CER 4.7UF 16V 10% X5R 0805 2012Metric
 K CAP CER 4.7UF 16V 10% X5R 0805 2012Metric
 F http://psearch.murata.co.jp/capacitor/product/GRM21BR61C475KA88%23.html
+$ENDCMP
+#
+$CMP GRM21BR61H475KE51L
+D CAP CER 4.7UF 50V X5R 0805
+K CAP CER 4.7UF 50V X5R 0805
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en
 $ENDCMP
 #
 $CMP GRM31
@@ -292,6 +346,12 @@ K SMD Sealed Type 3mm Size PVG3 Series
 F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/resistor/trimmer/r50e.ashx
 $ENDCMP
 #
+$CMP PVG3A100C01R00
+D SMD Sealed Type 3mm Size PVG3 Series
+K SMD Sealed Type 3mm Size PVG3 Series
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/resistor/trimmer/r50e.ashx
+$ENDCMP
+#
 $CMP PVZ3
 D SMD Open Type 3mm Size PVZ3 Series
 K SMD Open Type 3mm Size PVZ3 Series
@@ -302,6 +362,18 @@ $CMP PVZ3A103C01R00
 D TRIMMER 10K OHM 0.1W SMD
 K TRIMMER 10K OHM 0.1W SMD
 F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/resistor/trimmer/r50e.ashx
+$ENDCMP
+#
+$CMP RDE
+D Murata RDE Series
+K CAP CER xxxF xxV XXX RADIAL
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c72.ashx?la=ja-jp
+$ENDCMP
+#
+$CMP RDEC71H226MWK1H03B
+D CAP CER 22uF 50V X7S RADIAL
+K CAP CER 22uF 50V X7S RADIAL
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c72.ashx?la=ja-jp
 $ENDCMP
 #
 #End Doc Library

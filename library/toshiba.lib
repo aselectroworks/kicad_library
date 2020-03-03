@@ -111,6 +111,8 @@ F0 "U" 0 350 50 H V C CNN
 F1 "TCR2EE33,LM(CT" 0 250 50 H V C CNN
 F2 "ESV" 0 0 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
+F4 "Toshiba Semiconductor" 100 450 50 H I C CNN "Manufacturer"
+F5 "TCR2EE33,LM(CT" 200 550 50 H I C CNN "Manufacturer Part Number"
 $FPLIST
  ESV
  SOT-553

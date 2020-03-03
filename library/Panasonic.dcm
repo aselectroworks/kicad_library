@@ -36,6 +36,18 @@ K CAP ALUM 10UF 20% 63V SMD
 F https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf
 $ENDCMP
 #
+$CMP ERJ-2GE
+D RC0402
+K RES SMD xxx OHM 1% 1/16W 0402 1005Metric
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf
+$ENDCMP
+#
+$CMP ERJ-2GEJ4R7X
+D RES SMD 4.7 OHM 5% 1/10W 0402
+K RES SMD 4.7 OHM 5% 1/10W 0402
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf
+$ENDCMP
+#
 $CMP MN3102
 D CMOS Clock Generator/Driver for Low Voltage Operation BBD
 K BBD Clock Generator

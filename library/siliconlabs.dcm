@@ -6,4 +6,10 @@ K EFR32BG13 Blue Gecko Bluetooth® Low Energy +10 dBm Output Power Radio Board
 F https://www.silabs.com/products/development-tools/wireless/bluetooth/slwrb4104a-wireless-radio-board
 $ENDCMP
 #
+$CMP SI5351A-B-GTR
+D IC CLK GENERATOR 200MHZ 10MSOP
+K IC CLK GENERATOR 200MHZ 10MSOP
+F https://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf
+$ENDCMP
+#
 #End Doc Library

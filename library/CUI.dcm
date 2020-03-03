@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PJ-002A
+D CONN PWR JACK 2X5.5MM SOLDER
+K CONN PWR JACK 2X5.5MM SOLDER
+F https://www.cui.com/product/resource/digikeypdf/pj-002a.pdf
+$ENDCMP
+#
+$CMP PJ-002AH
+D CONN PWR JACK 2X5.5MM SOLDER
+K CONN PWR JACK 2X5.5MM SOLDER
+F https://www.cui.com/product/resource/digikeypdf/pj-002ah.pdf
+$ENDCMP
+#
 $CMP SJ1-3515N
 D CONN JACK STEREO R/A 5PIN 3.5MM
 K CONN JACK STEREO R/A 5PIN 3.5MM

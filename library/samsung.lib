@@ -1,17 +1,112 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# CL05A
+#
+DEF CL05A C 0 0 N Y 1 F N
+F0 "C" -100 0 40 V V C CNN
+F1 "CL05A" 100 0 40 V V C CNN
+F2 "murata:GRM15" 0 -70 10 H I C CNN
+F3 "http://www.samsungsem.com/kr/support/library/product-catalog/mlcc.jsp" 0 80 10 H I C CNN
+F4 "1005" 0 0 10 H V C CNN "Size"
+F5 "Samsung Electro-Mechanics" 200 300 50 H I C CNN "Manufacturer"
+F6 "CL05A" 300 400 50 H I C CNN "Manufacturer Part Number"
+ALIAS CL05A475MP5NRNC CL05A475MO5NUNC CL05A104KA5NNNC
+DRAW
+P 2 1 1 5 -40 -15 40 -15 N
+P 2 1 1 5 -40 15 40 15 N
+X ~ 1 0 50 35 D 40 40 1 1 P
+X ~ 2 0 -50 35 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CL10B
+#
+DEF CL10B C 0 0 N Y 1 F N
+F0 "C" -100 0 40 V V C CNN
+F1 "CL10B" 100 0 40 V V C CNN
+F2 "murata:GRM18" 0 -70 10 H I C CNN
+F3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10B103KC8WPNC.jsp" 0 80 10 H I C CNN
+F4 "1608" 0 0 10 H V C CNN "Size"
+F5 "Samsung Electro-Mechanics" 200 300 50 H I C CNN "Manufacturer"
+F6 "CL10B" 300 400 50 H I C CNN "Manufacturer Part Number"
+ALIAS CL10B103KC8WPNC
+DRAW
+P 2 1 1 5 -40 -15 40 -15 N
+P 2 1 1 5 -40 15 40 15 N
+X ~ 1 0 50 35 D 40 40 1 1 P
+X ~ 2 0 -50 35 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CL21A
+#
+DEF CL21A C 0 0 N Y 1 F N
+F0 "C" -100 0 40 V V C CNN
+F1 "CL21A" 100 0 40 V V C CNN
+F2 "murata:GRM21" 0 -70 10 H I C CNN
+F3 "" 0 80 10 H I C CNN
+F4 "2012" 0 0 10 H V C CNN "Size"
+F5 "Samsung Electro-Mechanics" 200 300 50 H I C CNN "Manufacturer"
+F6 "CL21A" 300 400 50 H I C CNN "Manufacturer Part Number"
+ALIAS CL21A226MOCLRNC
+DRAW
+P 2 1 1 5 -40 -15 40 -15 N
+P 2 1 1 5 -40 15 40 15 N
+X ~ 1 0 50 35 D 40 40 1 1 P
+X ~ 2 0 -50 35 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CL21B
+#
+DEF CL21B C 0 0 N Y 1 F N
+F0 "C" -100 0 40 V V C CNN
+F1 "CL21B" 100 0 40 V V C CNN
+F2 "murata:GRM21" 0 -70 10 H I C CNN
+F3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL21B105KBFNNNG.jsp" 0 80 10 H I C CNN
+F4 "2012" 0 0 10 H V C CNN "Size"
+F5 "Samsung Electro-Mechanics" 200 300 50 H I C CNN "Manufacturer"
+F6 "CL21B" 300 400 50 H I C CNN "Manufacturer Part Number"
+ALIAS CL21B105KBFNNNG
+DRAW
+P 2 1 1 5 -40 -15 40 -15 N
+P 2 1 1 5 -40 15 40 15 N
+X ~ 1 0 50 35 D 40 40 1 1 P
+X ~ 2 0 -50 35 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 # CL31A
 #
-DEF CL31A R 0 0 N Y 1 F N
-F0 "R" -100 0 40 V V C CNN
+DEF CL31A C 0 0 N Y 1 F N
+F0 "C" -100 0 40 V V C CNN
 F1 "CL31A" 100 0 40 V V C CNN
 F2 "murata:GRM31" 0 -70 10 H I C CNN
-F3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL31A106KBHNNNE.jsp" 0 80 10 H I C CNN
+F3 "" 0 80 10 H I C CNN
 F4 "3216" 0 0 10 H V C CNN "Size"
 F5 "Samsung Electro-Mechanics" 200 300 50 H I C CNN "Manufacturer"
 F6 "CL31A" 300 400 50 H I C CNN "Manufacturer Part Number"
-ALIAS CL31A106KBHNNNE
+ALIAS CL31A106KBHNNNE CL31A106MBHNNNE
+DRAW
+P 2 1 1 5 -40 -15 40 -15 N
+P 2 1 1 5 -40 15 40 15 N
+X ~ 1 0 50 35 D 40 40 1 1 P
+X ~ 2 0 -50 35 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CL32B
+#
+DEF CL32B C 0 0 N Y 1 F N
+F0 "C" -100 0 40 V V C CNN
+F1 "CL32B" 100 0 40 V V C CNN
+F2 "murata:GRM32" 0 -70 10 H I C CNN
+F3 "http://www.samsungsem.com/kr/support/product-search/mlcc/CL32B225KCJZW6E.jsp" 0 80 10 H I C CNN
+F4 "3225" 0 0 10 H V C CNN "Size"
+F5 "Samsung Electro-Mechanics" 200 300 50 H I C CNN "Manufacturer"
+F6 "CL32B" 300 400 50 H I C CNN "Manufacturer Part Number"
+ALIAS CL32B225KCJZW6E
 DRAW
 P 2 1 1 5 -40 -15 40 -15 N
 P 2 1 1 5 -40 15 40 15 N

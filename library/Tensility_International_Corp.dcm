@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 54-00129
+D CONN JACK R/A PCB 5.5X2.1MM
+K CONN JACK R/A PCB 5.5X2.1MM
+F http://www.tensility.com/pdffiles/54-00129.pdf
+$ENDCMP
+#
+#End Doc Library

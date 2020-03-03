@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EPC2007C
+D GANFET TRANS 100V 6A BUMPED DIE
+K GANFET TRANS 100V 6A BUMPED DIE
+F http://epc-co.com/epc/documents/datasheets/EPC2007C_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2038
+D GAN TRANS 100V 2.8OHM BUMPED DIE
+K GAN TRANS 100V 2.8OHM BUMPED DIE
+F http://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2038_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

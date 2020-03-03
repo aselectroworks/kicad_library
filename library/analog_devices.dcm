@@ -25,6 +25,12 @@ D Quad, 15 V, 256-Position Digital Potentiometer with Pin-Selectable SPI/I2C
 K Digipot, Quad, SPI, I2C
 $ENDCMP
 #
+$CMP AD9837BCPZ-RL7
+D IC WAVEFORM GEN PROG 10LFCSP
+K IC WAVEFORM GEN PROG 10LFCSP
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9837.PDF
+$ENDCMP
+#
 $CMP ADG619BRMZ
 D SPDT analog switch, break-before-make operation
 $ENDCMP

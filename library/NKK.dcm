@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M-2022NB
+D SWITCH ROCKER DPDT 6A 125VAC
+K SWITCH ROCKER DPDT 6A 125VAC
+F http://akizukidenshi.com/download/ds/nkk/rocker_m.pdf
+$ENDCMP
+#
+#End Doc Library

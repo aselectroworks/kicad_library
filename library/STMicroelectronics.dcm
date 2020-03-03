@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAT54KFILM
+D DIODE SCHOTTKY 40V 300MA SOD523
+K DIODE SCHOTTKY 40V 300MA SOD523
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/07/50/54/f2/0d/ba/4a/79/CD00001322.pdf/files/CD00001322.pdf/jcr:content/translations/en.CD00001322.pdf
+$ENDCMP
+#
 $CMP ST95HF-VMD5T
 D IC NFC TRANSCEIVER TAG 32VFQFPN
 K IC NFC TRANSCEIVER TAG 32VFQFPN

@@ -3,13 +3,13 @@ EESchema-DOCLIB  Version 2.0
 $CMP TS30042-M000QFNR
 D IC REG BUCK ADJ 2A SYNC 16-VQFN
 K IC REG BUCK ADJ 2A SYNC 16-VQFN
-F https://www.semtech.com/uploads/documents/ts3004x.pdf
+F https://semtech.my.salesforce.com/sfc/dist/version/download/?oid=00DE0000000JelG&ids=06844000005gjKqAAI&d=/a/44000000MCKn/3e48v2lP4vpbRsfOboAxhxdut0jxr3IIftfBJdJulOE&operationContext=DELIVERY&asPdf=true&viewId=05H2R000000nRiTUAU&dpt=
 $ENDCMP
 #
 $CMP TS30042-M050QFNR
 D IC REG BUCK 5V 2A SYNC 16-VQFN
 K IC REG BUCK 5V 2A SYNC 16-VQFN
-F https://www.semtech.com/uploads/documents/ts3004x.pdf
+F https://semtech.my.salesforce.com/sfc/dist/version/download/?oid=00DE0000000JelG&ids=06844000005gjKqAAI&d=/a/44000000MCKn/3e48v2lP4vpbRsfOboAxhxdut0jxr3IIftfBJdJulOE&operationContext=DELIVERY&asPdf=true&viewId=05H2R000000nRiTUAU&dpt=
 $ENDCMP
 #
 #End Doc Library

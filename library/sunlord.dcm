@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SWPA5040S
+D FIXED IND xxxH xxxA xxx MOHM
+K FIXED IND xxxH xxxA xxx MOHM
+F https://search.murata.co.jp/Ceramy/image/img/P02/JELF243B-0005.pdf
+$ENDCMP
+#
+$CMP SWPA5040S150MT
+D FIXED IND 15uH 2A 112 MOHM
+K FIXED IND 15uH 2A 112 MOHM
+F https://search.murata.co.jp/Ceramy/image/img/P02/JELF243B-0005.pdf
+$ENDCMP
+#
+#End Doc Library

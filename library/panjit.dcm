@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1S4
+D DIODE SCHOTTKY 40V 1A
+K DIODE SCHOTTKY 40V 1A
+F http://akizukidenshi.com/download/1S4.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2929SQ
+D FIXED IND Air Core xxUH xA xxx MOHM 
+K FIXED IND Air Core xxUH xA xxx MOHM 
+F https://www.mouser.jp/datasheet/2/597/1515sq-270668.pdf
+$ENDCMP
+#
+$CMP 2929SQ-391JEB
+D Fixed Inductors 2929SQ Air Core 390 nH 5 % 4.4 A
+K Fixed Inductors 2929SQ Air Core 390 nH 5 % 4.4 A
+F https://www.mouser.jp/datasheet/2/597/1515sq-270668.pdf
+$ENDCMP
+#
+#End Doc Library

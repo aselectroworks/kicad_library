@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TB111-2-2-U-1-1
+D TERM BLK 2POS SIDE ENTRY 5MM PCB
+K TERM BLK 2POS SIDE ENTRY 5MM PCB
+F http://akizukidenshi.com/download/ds/alphaplus/TB111-2-x-x-x-x.pdf
+$ENDCMP
+#
+$CMP TB111-2-3-U-1-1
+D TERM BLK 3POS SIDE ENTRY 5MM PCB
+K TERM BLK 3POS SIDE ENTRY 5MM PCB
+F http://akizukidenshi.com/download/ds/alphaplus/TB111-2-x-x-x-x.pdf
+$ENDCMP
+#
+$CMP TB112-2-2-U-1
+D TERM BLK 2POS SIDE ENTRY 5MM PCB
+K TERM BLK 2POS SIDE ENTRY 5MM PCB
+F http://akizukidenshi.com/download/ds/alphaplus/TB112-2-x-x-x-x.pdf
+$ENDCMP
+#
+$CMP TB112-2-3-U-1
+D TERM BLK 3POS SIDE ENTRY 5MM PCB
+K TERM BLK 3POS SIDE ENTRY 5MM PCB
+F http://akizukidenshi.com/download/ds/alphaplus/TB112-2-x-x-x-x.pdf
+$ENDCMP
+#
+#End Doc Library

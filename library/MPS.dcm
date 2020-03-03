@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MP2155GQ-Z
+D IC REG BCK BST 3.3V/ADJ 10QFN
+K IC REG BCK BST 3.3V/ADJ 10QFN
+F https://www.monolithicpower.com/pub/media/document/MP2155_r1.0.pdf
+$ENDCMP
+#
+#End Doc Library

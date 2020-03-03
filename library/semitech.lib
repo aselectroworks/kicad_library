@@ -1,0 +1,48 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# E-XXX
+#
+DEF E-XXX D 0 0 Y Y 1 F N
+F0 "D" 0 175 50 H V C CNN
+F1 "E-XXX" 0 100 50 H V C CNN
+F2 "Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal" -100 50 50 H I C CNN
+F3 "" 0 150 50 H I C CNN
+F4 "SEMITEC" 100 250 50 H I C CNN "Manufacturer"
+F5 "CRD" 200 350 50 H I C CNN "Manufacturer Part Number"
+ALIAS E-562
+DRAW
+C 0 0 25 0 1 0 N
+P 2 0 1 0 -50 0 -25 0 N
+P 2 0 1 0 -25 25 -25 -25 N
+P 2 0 1 0 25 0 50 0 N
+X K 1 -100 0 50 R 0 50 1 0 P
+X A 2 100 0 50 L 0 50 1 0 P
+ENDDRAW
+ENDDEF
+#
+# Z2XXX
+#
+DEF Z2XXX D 0 0 N N 1 F N
+F0 "D" 0 175 50 H V C CNN
+F1 "Z2XXX" 0 100 50 H V C CNN
+F2 "Diodes_THT:D_DO-15_P10.16mm_Horizontal" -100 50 50 H I C CNN
+F3 "" 0 150 50 H I C CNN
+F4 "SEMITEC" 100 250 50 H I C CNN "Manufacturer"
+F5 "Z2" 200 350 50 H I C CNN "Manufacturer Part Number"
+ALIAS Z2033
+DRAW
+P 2 0 1 0 -50 0 -25 0 N
+P 2 0 1 0 -25 25 -25 -25 N
+P 2 0 1 0 0 25 0 -25 N
+P 2 0 1 0 25 0 50 0 N
+P 3 0 1 0 -25 25 0 0 -25 -25 N
+P 3 0 1 0 0 -25 0 -35 -10 -35 N
+P 3 0 1 0 0 25 0 35 10 35 N
+P 4 0 1 0 0 0 25 25 25 -25 0 0 N
+X K 1 -100 0 50 R 0 50 1 0 P
+X A 2 100 0 50 L 0 50 1 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

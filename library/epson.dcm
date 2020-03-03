@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FA-238
+D CRYSTAL xxMHZ xxPF SMD
+K CRYSTAL xxMHZ xxPF SMD
+F https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-238&lang=en
+$ENDCMP
+#
+$CMP FA-238_25.0000MB-K3
+D CRYSTAL 25.0000MHZ 10PF SMD
+K CRYSTAL 25.0000MHZ 10PF SMD
+F https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-238&lang=en
+$ENDCMP
+#
 $CMP SG-210STF
 D OSC XO xxxHZ CMOS SMD
 K OSC XO xxxHZ CMOS SMD

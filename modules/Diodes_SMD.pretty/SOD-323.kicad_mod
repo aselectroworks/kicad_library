@@ -1,4 +1,4 @@
-(module SOD-323 (layer F.Cu) (tedit 5B714968)
+(module SOD-323 (layer F.Cu) (tedit 5E4FE82D)
   (descr SOD-323)
   (tags SOD-323)
   (attr smd)
@@ -7,6 +7,9 @@
   )
   (fp_text value SOD-323 (at 0.1 1.9) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user %R (at 0 0) (layer F.Fab)
+    (effects (font (size 0.3 0.3) (thickness 0.05)))
   )
   (fp_line (start 0.25 0) (end 0.5 0) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.25 0) (end -0.5 0) (layer F.SilkS) (width 0.15))

@@ -6,4 +6,10 @@ K DIODE SCHOTTKY 30V 200MA SOD323F
 F https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf
 $ENDCMP
 #
+$CMP PMEG6010AESBYL
+D DIODE SCHOTTKY 60V 1A DSN1006-2
+K DIODE SCHOTTKY 60V 1A DSN1006-2
+F https://assets.nexperia.com/documents/data-sheet/PMEG6010AESB.pdf
+$ENDCMP
+#
 #End Doc Library

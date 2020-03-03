@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 54-00129
+#
+DEF 54-00129 J 0 40 Y Y 1 F N
+F0 "J" 0 210 50 H V C CNN
+F1 "54-00129" 0 -200 50 H V C CNN
+F2 "Tensility_International_Corp:54-00129" 50 -40 50 H I C CNN
+F3 "" 50 -40 50 H I C CNN
+F4 "Tensility International Corp" 100 310 50 H I C CNN "Manufacturer"
+F5 "54-00129" 200 410 50 H I C CNN "Manufacturer Part Number"
+$FPLIST
+ BarrelJack*
+$ENDFPLIST
+DRAW
+A -130 100 25 901 -901 0 1 10 F -130 125 -130 75
+A -130 100 25 901 -901 0 1 10 N -130 125 -130 75
+S 145 125 -130 75 0 1 10 F
+P 2 0 1 0 60 -90 40 -60 N
+P 2 0 1 10 200 100 150 100 N
+P 5 0 1 0 200 0 60 0 60 -70 60 -90 80 -60 N
+P 6 0 1 10 -150 -100 -100 -100 -50 -50 0 -100 100 -100 200 -100 N
+X ~ 1 300 100 100 L 50 50 1 1 P
+X ~ 2 300 -100 100 L 50 50 1 1 P
+X ~ 3 300 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

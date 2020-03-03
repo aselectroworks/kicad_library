@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS1077U
+D IC OSC DUAL FX FREQ PROG 8-USOP
+K IC OSC DUAL FX FREQ PROG 8-USOP
+F https://datasheets.maximintegrated.com/en/ds/DS1077.pdf
+$ENDCMP
+#
+$CMP DS1077U-100+
+D IC OSC DUAL FX FREQ PROG 100MHz 8-USOP
+K IC OSC DUAL FX FREQ PROG 100MHz 8-USOP
+F https://datasheets.maximintegrated.com/en/ds/DS1077.pdf
+$ENDCMP
+#
+#End Doc Library

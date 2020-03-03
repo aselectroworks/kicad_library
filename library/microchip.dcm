@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MCP45HV51
+D IC DGTL POT xxxK 256TAPS 14TSSOP
+K IC DGTL POT xxxK 256TAPS 14TSSOP
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en569827
+$ENDCMP
+#
+$CMP MCP45HV51-104E_ST
+D IC DGTL POT 100K 256TAPS 14TSSOP
+K IC DGTL POT 100K 256TAPS 14TSSOP
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en569827
+$ENDCMP
+#
 $CMP MCP73871
 D USB/AC BATTERY CHARGER
 K USB/AC BATTERY CHARGER

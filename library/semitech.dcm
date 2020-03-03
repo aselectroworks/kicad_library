@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP E-562
+D DIODE CURRENT LIMITING 5.6mA
+K DIODE CURRENT LIMITING 5.6mA
+F http://www.semitec.co.jp/uploads/typeE.pdf
+$ENDCMP
+#
+$CMP E-XXX
+D DIODE CURRENT LIMITING
+K DIODE CURRENT LIMITING
+F http://www.semitec.co.jp/uploads/typeE.pdf
+$ENDCMP
+#
+$CMP Z2033
+D TVS DIODE 26.8V 33V DO204AC
+K TVS DIODE 26.8V 33V DO204AC
+F http://www.semitec.co.jp/uploads/souhoukou-vrd_97H.pdf
+$ENDCMP
+#
+$CMP Z2XXX
+D TVS DIODE xxxV xxxV DO204AC
+K TVS DIODE xxxV xxxV DO204AC
+F http://www.semitec.co.jp/uploads/souhoukou-vrd_97H.pdf
+$ENDCMP
+#
+#End Doc Library
