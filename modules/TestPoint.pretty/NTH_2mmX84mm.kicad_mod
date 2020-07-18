@@ -1,0 +1,9 @@
+(module NTH_2mmX84mm (layer F.Cu) (tedit 5E658558)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value NTH_2mmX84mm (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole oval (at 0 0) (size 2 84) (drill oval 2 84) (layers *.Cu *.Mask))
+)

@@ -1,6 +1,22 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# NTH3.2mm
+#
+DEF NTH3.2mm NTH 0 40 N N 1 F N
+F0 "NTH" 0 100 40 H V C BNN
+F1 "NTH3.2mm" 0 50 40 H V C CNN
+F2 "TestPoint:NTH_3.2mm" -100 0 50 H I C CNN
+F3 "" 0 0 50 H V C CNN
+$FPLIST
+ TP_1mm
+ TP*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 0 N
+ENDDRAW
+ENDDEF
+#
 # SHORT_JUMPER
 #
 DEF SHORT_JUMPER R 0 0 N Y 1 F N

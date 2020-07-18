@@ -546,6 +546,12 @@ K RES SMD 15K OHM 1% 1/16W 1206 3216Metric
 F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
 $ENDCMP
 #
+$CMP RC1206FR-07220RL
+D RES SMD 220 OHM 1% 1/4W 1206 3216Metric
+K RES SMD 220 OHM 1% 1/4W 1206 3216Metric
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+$ENDCMP
+#
 $CMP RC1206FR-075K6L
 D RES SMD 5.6K OHM 1% 1/16W 1206 3216Metric
 K RES SMD 5.6K OHM 1% 1/16W 1206 3216Metric

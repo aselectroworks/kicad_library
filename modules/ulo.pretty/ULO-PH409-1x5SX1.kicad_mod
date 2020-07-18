@@ -1,11 +1,14 @@
-(module ULO-PH409-1x5SX1 (layer F.Cu) (tedit 5B0EDAE8)
+(module ULO-PH409-1x5SX1 (layer F.Cu) (tedit 5E6316D9)
   (descr "Through hole pin header")
   (tags "pin header")
   (fp_text reference REF** (at 0 -10.18) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text value ULO-PH409-1x5SX1 (at 0 -8.18) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user %R (at 0 0) (layer F.Fab)
+    (effects (font (size 0.3 0.3) (thickness 0.05)))
   )
   (fp_line (start -1.52 -6.6) (end -1.52 6.6) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1.52 -6.6) (end 1.52 6.6) (layer F.CrtYd) (width 0.05))
@@ -28,7 +31,7 @@
   (pad 3 thru_hole oval (at 0 0) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 0 2.54) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 0 5.08) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/ulo.3dshapes/ULO-PH409-1x5SX1.step
+  (model ${KIUSER3DMOD}/ulo.3dshapes/ULO-PH409-1x5SX1.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

@@ -22,7 +22,7 @@
   (pad 2 thru_hole oval (at 0 -1.27) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at 0 1.27) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole oval (at 0 3.81) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model ulo.3dshapes/ULO-PH409-1x4SX1.wrl
+  (model ${KIUSER3DMOD}/ulo.3dshapes/ULO-PH409-1x4SX1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

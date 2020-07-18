@@ -6,6 +6,12 @@ K RELAY TELECOM DPDT 2A 3V
 F https://www3.panasonic.biz/ac/e_download/control/relay/signal/catalog/mech_eng_tq.pdf
 $ENDCMP
 #
+$CMP ALDP105W
+D RELAY GEN PURPOSE SPST 5A 5V
+K RELAY GEN PURPOSE SPST 5A 5V
+F https://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_ldp.pdf
+$ENDCMP
+#
 $CMP EEE-Bipolar
 D Panasonic Surface Mount Type, Series: S, Type: V
 K CAP ALUM xxUF xxV xx% SMD

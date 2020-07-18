@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NTH3.2mm
+D Non-Through Hole 3.2mm
+K Non-Through Hole 3.2mm
+$ENDCMP
+#
 $CMP RC0603FR-070RL
 D RES SMD 0 OHM JUMPER 1/10W 0603
 K RES SMD 0 OHM JUMPER 1/10W 0603

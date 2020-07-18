@@ -25,6 +25,34 @@ X 2 2 200 0 125 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
+# CRR1S0505SC
+#
+DEF CRR1S0505SC U 0 40 Y Y 1 F N
+F0 "U" 0 200 40 H V C CNN
+F1 "CRR1S0505SC" 0 -200 40 H V C CNN
+F2 "murata:CRR1S0505SC" 0 0 30 H I C CNN
+F3 "" -25 50 30 H I C CNN
+F4 "Murata Power Solutions Inc." 0 0 50 H I C CNN "Manufacturer"
+F5 "CRR1S0505SC" 0 0 50 H I C CNN "Manufacturer Part Number"
+DRAW
+A -50 -50 25 -899 899 1 1 0 N -50 -75 -50 -25
+A -50 0 25 -899 899 1 1 0 N -50 -25 -50 25
+A -50 25 0 -900 -900 1 1 0 N -50 25 -50 25
+A -50 50 25 -899 899 1 1 0 N -50 25 -50 75
+A 50 -50 25 901 -901 1 1 0 N 50 -25 50 -75
+A 50 0 25 901 -901 1 1 0 N 50 25 50 -25
+A 50 25 0 -900 -900 1 1 0 N 50 25 50 25
+A 50 50 25 901 -901 1 1 0 N 50 75 50 25
+S -300 150 300 -150 0 1 0 N
+P 2 1 1 0 -10 70 -10 -70 N
+P 2 1 1 0 10 70 10 -70 N
+X +VIN 1 -350 100 50 R 40 40 1 1 W
+X -VIN 2 -350 -100 50 R 40 40 1 1 W
+X -VOUT 4 350 -100 50 L 40 40 1 1 w
+X +VOUT 6 350 100 50 L 40 40 1 1 w
+ENDDRAW
+ENDDEF
+#
 # DFE252012P
 #
 DEF DFE252012P L 0 40 N N 1 F N
@@ -108,8 +136,10 @@ DEF GCM21 C 0 10 N Y 1 F N
 F0 "C" 0 100 40 H V C CNN
 F1 "GCM21" 0 50 40 H V C CNN
 F2 "murata:GRM21" 150 38 30 V I C CNN
-F3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" 0 0 30 H I C CNN
+F3 "" 0 0 30 H I C CNN
 F4 "2012" 0 -35 10 H V C CNN "Size"
+F5 "Murata Electronics" 0 0 80 H I C CNN "Manufacturer"
+F6 "GCM21" 0 0 80 H I C CNN "Manufacturer Part Number"
 ALIAS GCM21BR72A104KA37L
 $FPLIST
  GRM21*
@@ -246,8 +276,10 @@ DEF GRT18 C 0 10 N Y 1 F N
 F0 "C" 0 100 40 H V C CNN
 F1 "GRT18" 0 50 40 H V C CNN
 F2 "murata:GRM18" 100 25 10 H I C CNN
-F3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" 0 0 10 H I C CNN
+F3 "" 0 0 10 H I C CNN
 F4 "1608" 0 -35 10 H V C CNN "Size"
+F5 "Murata Electronics" 0 0 50 H I C CNN "Manufacturer"
+F6 "GRT188" 0 0 50 H I C CNN "Manufacturer Part Number"
 ALIAS GRT188R61C106KE13D GRT188R61C105ME13D
 $FPLIST
  GRM18*
@@ -269,7 +301,8 @@ F0 "L" 0 50 40 H V C CNN
 F1 "LQM21" 0 -50 40 H V C CNN
 F2 "murata:LQM21" 0 0 50 H I C CNN
 F3 "" -25 0 60 H I C CNN
-ALIAS LQM21NNR56K10D
+F4 "Murata Electronics" 0 0 50 H I C CNN "Manufacturer"
+ALIAS LQM21NNR56K10D LQM21PN4R7MGRD
 DRAW
 A -50 0 25 1 1799 0 1 0 N -25 0 -75 0
 A -25 0 0 0 0 0 1 0 N -25 0 -25 0
@@ -325,6 +358,8 @@ F0 "R" 0 100 40 H V C CNN
 F1 "NCP15XH103F03RC" 0 100 40 H V C CNN
 F2 "murata:NTC_0402" -100 0 50 H I C CNN
 F3 "" 0 100 50 H I C CNN
+F4 "Murata Electronics" 0 0 80 H I C CNN "Manufacturer"
+F5 "NCP15XH103F03RC" 0 0 80 H I C CNN "Manufacturer Part Number"
 DRAW
 C 0 0 50 0 1 0 N
 P 8 1 1 0 30 0 25 -20 15 20 5 -20 -5 20 -15 -20 -25 20 -30 0 N

@@ -56,7 +56,7 @@
   (pad 38 smd roundrect (at 2.025 10.795) (size 2.45 0.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2))
   (pad 39 smd roundrect (at -2.025 12.065) (size 2.45 0.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2))
   (pad 40 smd roundrect (at 2.025 12.065) (size 2.45 0.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2))
-  (model ${KISYS3DMOD}/ulo.3dshapes/ULO-PH419H-2x20P8BS22.step
+  (model ${KIUSER3DMOD}/ulo.3dshapes/ULO-PH419H-2x20P8BS22.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

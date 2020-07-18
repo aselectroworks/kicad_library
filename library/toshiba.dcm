@@ -12,10 +12,28 @@ K MOSFET P CH 30V 6A 2-3Z1A
 F https://toshiba.semicon-storage.com/info/docget.jsp?did=2620&prodName=SSM3J332R
 $ENDCMP
 #
+$CMP SSM3J351R,LF
+D MOSFET P-CH 60V 3.5A SOT-23F
+K MOSFET P-CH 60V 3.5A SOT-23F
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=53735&prodName=SSM3J351R
+$ENDCMP
+#
 $CMP TCR2EE33,LM(CT
 D IC REG LINEAR 3.3V 200MA ESV
 K IC REG LINEAR 3.3V 200MA ESV
 F https://toshiba.semicon-storage.com/info/docget.jsp?did=13794&prodName=TCR2EF45
+$ENDCMP
+#
+$CMP TJ8S06M3L(T6L1,NQ)
+D MOSFET P-CH 60V 8A DPAK-3
+K MOSFET P-CH 60V 8A DPAK-3
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=22588&prodName=TJ8S06M3L
+$ENDCMP
+#
+$CMP TLP785(GR-TP6,F)
+D OPTOISOLATR 5KV TRANSISTOR 4-SMD
+K OPTOISOLATR 5KV TRANSISTOR 4-SMD
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=10569&prodName=TLP785F
 $ENDCMP
 #
 #End Doc Library

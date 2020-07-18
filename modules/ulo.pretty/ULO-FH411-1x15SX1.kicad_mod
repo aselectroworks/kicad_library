@@ -41,7 +41,7 @@
   (pad 13 thru_hole oval (at 0 12.7) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask))
   (pad 14 thru_hole oval (at 0 15.24) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 0 17.78) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/ulo.3dshapes/ULO-FH411-1_15SX1.step
+  (model ${KIUSER3DMOD}/ulo.3dshapes/ULO-FH411-1_15SX1.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

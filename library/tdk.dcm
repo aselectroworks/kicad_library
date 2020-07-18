@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AVR-M1005C080MTADB
+D VARISTOR 8V 25A 0402
+K VARISTOR 8V 25A 0402
+F https://product.tdk.com/info/en/catalog/datasheets/vpd_varistors_avr_en.pdf
+$ENDCMP
+#
+#End Doc Library

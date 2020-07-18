@@ -114,6 +114,12 @@ K CONN HEADER PH SIDE 2POS 2MM SMD
 F http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
 $ENDCMP
 #
+$CMP S5B-XH-A(LF)(SN)
+D CONN HEADER R/A 5POS 2.5MM
+K CONN HEADER R/A 5POS 2.5MM
+F http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+$ENDCMP
+#
 $CMP SM04B-SRSS-TB(LF)(SN)
 D CONN HEADER SH 4POS SIDE 1MM TIN
 K CONN HEADER SH 4POS SIDE 1MM TIN
